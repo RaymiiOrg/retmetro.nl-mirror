@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="nl-nl">
+	<title type="text">Home</title>
+	<subtitle type="text">retmetro.nl - alles over de Rotterdamse metro</subtitle>
+	<link rel="alternate" type="text/html" href="http://retmetro.nl"/>
+	<id>http://retmetro.nl/cms/</id>
+	<updated>2015-07-28T17:49:19+00:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://retmetro.nl/cms/?format=feed&amp;type=atom"/>
+</feed>

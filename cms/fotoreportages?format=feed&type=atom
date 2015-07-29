@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="nl-nl">
+	<title type="text">Fotoreportages</title>
+	<subtitle type="text">retmetro.nl - alles over de Rotterdamse metro</subtitle>
+	<link rel="alternate" type="text/html" href="http://retmetro.nl"/>
+	<id>http://retmetro.nl/cms/fotoreportages</id>
+	<updated>2015-07-28T17:52:26+00:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://retmetro.nl/cms/fotoreportages?format=feed&amp;type=atom"/>
+	<entry>
+		<title>De metro in 2009</title>
+		<link rel="alternate" type="text/html" href="http://retmetro.nl/cms/fotoreportages/1126-de-metro-in-2009"/>
+		<published>2013-04-16T16:46:15+00:00</published>
+		<updated>2013-04-16T16:46:15+00:00</updated>
+		<id>http://retmetro.nl/cms/fotoreportages/1126-de-metro-in-2009</id>
+		<author>
+			<name>Roland</name>
+			<email>roland@retmetro.nl</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p style=&quot;line-height: 15px;&quot;&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8107/8654990003_85c24af907_m.jpg&quot; width=&quot;240&quot; height=&quot;180&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p style=&quot;line-height: 15px;&quot;&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8107/8654990003_85c24af907_m.jpg&quot; width=&quot;240&quot; height=&quot;180&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Fotoreportages" />
+	</entry>
+	<entry>
+		<title>Line-up 3 mei 2009</title>
+		<link rel="alternate" type="text/html" href="http://retmetro.nl/cms/fotoreportages/1113-line-up-3-mei-2009"/>
+		<published>2013-01-16T15:01:57+00:00</published>
+		<updated>2013-01-16T15:01:57+00:00</updated>
+		<id>http://retmetro.nl/cms/fotoreportages/1113-line-up-3-mei-2009</id>
+		<author>
+			<name>Roland</name>
+			<email>roland@retmetro.nl</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p style=&quot;line-height: 15px;&quot;&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8497/8387187534_ebf61ee6ef_m.jpg&quot; width=&quot;240&quot; height=&quot;180&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p style=&quot;line-height: 15px;&quot;&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8497/8387187534_ebf61ee6ef_m.jpg&quot; width=&quot;240&quot; height=&quot;180&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Fotoreportages" />
+	</entry>
+	<entry>
+		<title>De 'Ommoordtak' 24 juni 2003</title>
+		<link rel="alternate" type="text/html" href="http://retmetro.nl/cms/fotoreportages/1108-de-ommoordtak-24-juni-2003"/>
+		<published>2012-12-17T18:45:43+00:00</published>
+		<updated>2012-12-17T18:45:43+00:00</updated>
+		<id>http://retmetro.nl/cms/fotoreportages/1108-de-ommoordtak-24-juni-2003</id>
+		<author>
+			<name>Roland</name>
+			<email>roland@retmetro.nl</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8064/8281128231_0d8f100cc6_m.jpg&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8064/8281128231_0d8f100cc6_m.jpg&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Fotoreportages" />
+	</entry>
+	<entry>
+		<title>Metro's in de avondzon</title>
+		<link rel="alternate" type="text/html" href="http://retmetro.nl/cms/fotoreportages/1107-metro-s-in-de-avondzon"/>
+		<published>2012-12-17T17:58:40+00:00</published>
+		<updated>2012-12-17T17:58:40+00:00</updated>
+		<id>http://retmetro.nl/cms/fotoreportages/1107-metro-s-in-de-avondzon</id>
+		<author>
+			<name>Roland</name>
+			<email>roland@retmetro.nl</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8364/8282031364_31e1e2691a_m.jpg&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8364/8282031364_31e1e2691a_m.jpg&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Fotoreportages" />
+	</entry>
+</feed>

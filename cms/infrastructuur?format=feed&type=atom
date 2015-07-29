@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="nl-nl">
+	<title type="text">Infrastructuur</title>
+	<subtitle type="text">retmetro.nl - alles over de Rotterdamse metro</subtitle>
+	<link rel="alternate" type="text/html" href="http://retmetro.nl"/>
+	<id>http://retmetro.nl/cms/infrastructuur</id>
+	<updated>2015-07-28T17:50:20+00:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://retmetro.nl/cms/infrastructuur?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Kruisingen</title>
+		<link rel="alternate" type="text/html" href="http://retmetro.nl/cms/infrastructuur/kruisingen"/>
+		<published>2012-10-31T18:12:17+00:00</published>
+		<updated>2012-10-31T18:12:17+00:00</updated>
+		<id>http://retmetro.nl/cms/infrastructuur/kruisingen</id>
+		<author>
+			<name>Roland</name>
+			<email>roland@retmetro.nl</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;img width=&quot;122&quot; height=&quot;92&quot; src=&quot;images/m_info_kruidb.jpg&quot; style=&quot;margin-right: 5px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; line-height: normal; float: left;&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;line-height: 15px;&quot;&gt;De metrolijnen A, B en E kennen gelijkvloerse kruisingen met ander verkeer. In deze kruisingendatabase is uitgebreide informatie te vinden over de verschillende gelijkvloerse kruisingen die de Rotterdamse metro kent op de A-, B- en E-lijnen. De database zit vol met foto's van de kruisingen en de omgeving. Nieuwe foto's voor de kruisingendatabase kun je naar ons&amp;nbsp;&lt;a href=&quot;mail-de-webmaster&quot;&gt;mailen&lt;/a&gt;. Wij zorgen ervoor dat de foto zo snel mogelijk geplaatst wordt.&lt;/p&gt;
+&lt;p style=&quot;line-height: 15px;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;line-height: 15px;&quot;&gt;Voor meer informatie over de beveiliging van de gelijkvloerse kruisingen op de A- en B-lijn, zie de&amp;nbsp;&lt;a href=&quot;projecten/ahobs&quot;&gt;AHOB-projectpagina&lt;/a&gt;.&lt;/p&gt;
+&lt;p style=&quot;line-height: 15px;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;img width=&quot;122&quot; height=&quot;92&quot; src=&quot;images/m_info_kruidb.jpg&quot; style=&quot;margin-right: 5px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; line-height: normal; float: left;&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;line-height: 15px;&quot;&gt;De metrolijnen A, B en E kennen gelijkvloerse kruisingen met ander verkeer. In deze kruisingendatabase is uitgebreide informatie te vinden over de verschillende gelijkvloerse kruisingen die de Rotterdamse metro kent op de A-, B- en E-lijnen. De database zit vol met foto's van de kruisingen en de omgeving. Nieuwe foto's voor de kruisingendatabase kun je naar ons&amp;nbsp;&lt;a href=&quot;mail-de-webmaster&quot;&gt;mailen&lt;/a&gt;. Wij zorgen ervoor dat de foto zo snel mogelijk geplaatst wordt.&lt;/p&gt;
+&lt;p style=&quot;line-height: 15px;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;line-height: 15px;&quot;&gt;Voor meer informatie over de beveiliging van de gelijkvloerse kruisingen op de A- en B-lijn, zie de&amp;nbsp;&lt;a href=&quot;projecten/ahobs&quot;&gt;AHOB-projectpagina&lt;/a&gt;.&lt;/p&gt;
+&lt;p style=&quot;line-height: 15px;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Infrastructuur" />
+	</entry>
+	<entry>
+		<title>Stations</title>
+		<link rel="alternate" type="text/html" href="http://retmetro.nl/cms/infrastructuur/stations-database6"/>
+		<published>2012-10-31T17:18:02+00:00</published>
+		<updated>2012-10-31T17:18:02+00:00</updated>
+		<id>http://retmetro.nl/cms/infrastructuur/stations-database6</id>
+		<author>
+			<name>Roland</name>
+			<email>roland@retmetro.nl</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;span face=&quot;Verdana, Arial, Helvetica, sans-serif&quot; style=&quot;font-family: Verdana, Arial, Helvetica, sans-serif;&quot;&gt;&lt;span style=&quot;font-size: 11px; line-height: normal;&quot;&gt;&lt;img width=&quot;122&quot; height=&quot;92&quot; src=&quot;images/m_info_statdb.jpg&quot; style=&quot;margin-right: 5px; float: left;&quot; /&gt;&lt;/span&gt;&lt;/span&gt;Dit is de retmetro.nl-stationsdatabase. Over alle metro- en RandstadRailstations is uitgebreide informatie te vinden: de architect, de bijbehorende lijn, het bouwjaar en eventuele kunst. De database zit vol met foto's van de stations en de omgeving. Nieuwe foto's voor de stationsdatabase kun je uploaden onder 'foto's' of naar ons &lt;a href=&quot;mail-de-webmaster&quot;&gt;mailen&lt;/a&gt;. Wij zorgen ervoor dat de foto dan zo snel mogelijk geplaatst wordt. Klik in de kaart op een station om dat te bekijken.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;span face=&quot;Verdana, Arial, Helvetica, sans-serif&quot; style=&quot;font-family: Verdana, Arial, Helvetica, sans-serif;&quot;&gt;&lt;span style=&quot;font-size: 11px; line-height: normal;&quot;&gt;&lt;img width=&quot;122&quot; height=&quot;92&quot; src=&quot;images/m_info_statdb.jpg&quot; style=&quot;margin-right: 5px; float: left;&quot; /&gt;&lt;/span&gt;&lt;/span&gt;Dit is de retmetro.nl-stationsdatabase. Over alle metro- en RandstadRailstations is uitgebreide informatie te vinden: de architect, de bijbehorende lijn, het bouwjaar en eventuele kunst. De database zit vol met foto's van de stations en de omgeving. Nieuwe foto's voor de stationsdatabase kun je uploaden onder 'foto's' of naar ons &lt;a href=&quot;mail-de-webmaster&quot;&gt;mailen&lt;/a&gt;. Wij zorgen ervoor dat de foto dan zo snel mogelijk geplaatst wordt. Klik in de kaart op een station om dat te bekijken.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Infrastructuur" />
+	</entry>
+	<entry>
+		<title>Zug Beeinflussung (ZUB)</title>
+		<link rel="alternate" type="text/html" href="http://retmetro.nl/cms/infrastructuur/zub"/>
+		<published>2009-11-22T10:14:50+00:00</published>
+		<updated>2009-11-22T10:14:50+00:00</updated>
+		<id>http://retmetro.nl/cms/infrastructuur/zub</id>
+		<author>
+			<name>Joachim</name>
+			<email>joachim@retmetro.nl</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Op de trajecten van RandstadRail wordt het beveiligingssysteem ZUB 222c gebruikt. ZUB staat voor &lt;b&gt;ZU&lt;/b&gt;g &lt;b&gt;B&lt;/b&gt;eeinflussung en de leverancier is het Duitse Siemens. ZUB is een puntsgewijs spoorbeveiligingsysteem, dat gebruikt maakt van buitenseinen. Deze zijn leidend voor de bestuurder. De bestuurder ontvangt ook informatie in zijn cabine over het sein dat hij nadert of passeert, maar die informatie dient ter ondersteuning. Het systeem is daarom in grote mate afwijkend van het reguliere ATB-systeem van de Rotterdamse metro.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img width=&quot;545&quot; height=&quot;409&quot; src=&quot;images/zub_pp_img_1.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;ZUB&amp;nbsp;is in grote mate afwijkend van ATB, met name omdat het gebruik maakt van buitenseinen.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;div&gt;&lt;strong&gt;IXL-stations&lt;/strong&gt;&lt;br /&gt; Het hart van ZUB wordt gevormd door de IXL-stations, die verspreid langs de RandstadRail-trajecten staan. IXL is een interlockingsysteem dat wissels, seinen en overwegen aanstuurt, controleert en bewaakt. Met behulp van assentellers wordt vastgesteld of een spoorgedeelte al dan niet bezet is door een ander voertuig. ZUB controleert of de toegestane snelheid in het blok waar de trein zich bevindt niet overschreden wordt. Wanneer de snelheid overschreden wordt, zal de treininstallatie waarschuwen en zo nodig ingrijpen. De mate van de ingreep hangt af van de snelheidsoverschrijding.&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;
+&lt;table border=&quot;1&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;161&quot;&gt;
+&lt;div&gt;&lt;b&gt;Snelheid&lt;/b&gt;&lt;/div&gt;
+&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;453&quot;&gt;
+&lt;div&gt;&lt;b&gt;Reactie treininstallatie&lt;/b&gt;&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;161&quot;&gt;
+&lt;div&gt;0 km/h boven toegestane snelheid&lt;/div&gt;
+&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;453&quot;&gt;
+&lt;div&gt;Tractie opnemen onmogelijk&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;161&quot;&gt;
+&lt;div&gt;2 km/h boven toegestane snelheid&lt;/div&gt;
+&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;453&quot;&gt;
+&lt;div&gt;Dwangrem-ingreep met bedrijfsrem (66% remkoppel) tot onder de maximum toegestane snelheid.&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;161&quot;&gt;
+&lt;div&gt;5 km/h boven toegestane snelheid&lt;/div&gt;
+&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;453&quot;&gt;
+&lt;div&gt;Dwangrem-ingreep met bedrijfsrem (100% remkoppel) tot stilstand.&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;Puntsgewijs spoorbeveiligingssysteem&lt;/strong&gt;&lt;br /&gt; ZUB is een puntsgewijs spoorbeveiligingssysteem. Dit betekent dat er&amp;nbsp;bij elk lichtsein nieuwe informatie uitgewisseld wordt tussen het voertuig en het spoorbeveiligingsysteem. Deze communicatie vindt plaats via een signaal tussen de baankoppelspoel, die dicht in de buurt van ieder lichtsein geplaatst is, en de treinkoppelspoel, die op ieder kopdraaistel gemonteerd is aan de rechterzijde.&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;img width=&quot;545&quot; height=&quot;409&quot; src=&quot;images/zub_pp_img_2.jpg&quot; /&gt;&lt;/div&gt;
+&lt;div style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Treinkoppelspoel aan een RSG2-rijtuig.&lt;/strong&gt;&lt;/div&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;img width=&quot;545&quot; height=&quot;409&quot; src=&quot;images/zub_pp_img_3.jpg&quot; /&gt;&lt;/div&gt;
+&lt;div style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Baankoppelspoel (geel)&amp;nbsp;in de buurt van een buitensein.&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;Een nadeel van dit systeem is dat een positieve verandering in het seinbeeld niet direct door het voertuig opgepikt wordt, in tegenstelling tot het ATB-systeem van het metronet. Pas bij het passeren van het eerstvolgende lichtsein kan nieuwe informatie ontvangen, door de verbinding treinkoppelspoel-baankoppelspoel. Omdat deze constructie op sommige locaties de exploitatie kan hinderen, is er voor gekozen om lussen (maximaal 250 meter lang) te koppelen aan de baankoppelspoel, zodat nieuwe informatie al eerder ontvangen kan worden. Dit komt de exploitatie ten goede.&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;IMU&lt;/strong&gt;&lt;br /&gt; De RSG2-rijtuigen&amp;nbsp;(5261-5271)&amp;nbsp;kunnen zelf de rijwegen aansturen middels een boordcomputer. Voor aanvang van een rit dient een code ingevoerd te worden, die aangeeft welke lijn er gereden wordt en wat de route, treinlengte en eindbestemming is. De code die aan deze informatie verbonden wordt, wordt via de treinkoppelspoel verstuurd naar IMU (Induktives Meldungsübertragungssystem). Dit is een instrument dat gemonteerd is aan een spoorstaaf en ontvangt de code en geeft deze door aan de Rijweg Instel Automaat (RIA). RIA zorgt er vervolgens voor dat er op tijd een nieuwe rijweg ingesteld wordt en volgt de voertuigen tijdens de rit. IMU-lussen liggen met name op locaties waar nieuwe of andere routes ingesteld moeten worden (begin- of keerpunten).&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;img width=&quot;545&quot; height=&quot;409&quot; src=&quot;images/zub_pp_img_7.jpg&quot; /&gt;&lt;/div&gt;
+&lt;div style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Met de boordcomputer wordt een code via de treinkoppelspoel naar IMU (op de foto de witte box)&amp;nbsp;gestuurd.&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;Bijzonderheden van ZUB&lt;/strong&gt;&lt;br /&gt; ZUB bevat enkele bijzonderheden, die de exploitatie of de omgeving ten goede komen. Zo kan een bestuurder zelf de rijweg aanvragen. Dit is vooral handig bij het vertrekken van een station waar direct achter een overweg of overpad aangelegd is. Wanneer de stop op het station om wat voor reden dan ook langer duurt, blijft de overweg geopend en ontstaat er geen verkeershinder. Wanneer de bestuurder wil en kan vertrekken, bedient deze de knop “aanvraag vertrek”. Dan wordt de rijweg ingelegd en zal er een positief seinbeeld getoond worden. Dit voorkomt dat het voertuig de overweg kan bereiken wanneer de spoorbomen nog geopend zijn.&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;ZUB kan ook voorkomen dat er lagevloer-voertuigen op het hogevloertraject komen en omgekeerd. Dit risico doet zich vooral voor op de stations Laan van NOI en Leidschenveen en bij emplacement Leidschendam. Aan de hand van de voertuigcode zal de Rijweg Instel Automaat het voertuig altijd naar de goede bestemming sturen. Maar bij menselijke bediening vanaf de CVL kunnen vergissingen gemaakt worden. Daarom is er bij de splitsingen een wisselstandaanwijzer aangebracht. De bestuurder moet contact opnemen met de CVL wanneer de stand op deze aanwijzer niet overeenkomt met de normale rijweg. Als het voertuig het sein toch passeert, zal het direct stilgezet worden. Dit gebeurt buiten ZUB om.&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;Apparatuur in RSG2-rijtuig&lt;/strong&gt;&lt;br /&gt; De bestuurderscabine van de RSG2-rijtuigen werd voor de exploitatie op de RandstadRail Erasmuslijn (lijn E)&amp;nbsp;voor een gedeelte aangepast. Er werd een nieuwe snelheidsmeter, ZUB-interface en boordcomputer geplaatst. De snelheidsmeter is vergelijkbaar met die van de Bombardier-rijtuigen (type SG2/1 en MG2/1). Een gele wijzer geeft de werkelijke snelheid (“V ist”) aan, een rode wijzer geeft de toegestane snelheid aan (“V soll”). De laatste wijzer geeft tevens een remcurve aan, wanneer bijvoorbeeld minder positief seinbeeld genaderd wordt.&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;Zoals eerder beschreven, is elke cabine voorzien van een ZUB-interface. De ZUB-interface bestaat uit een display met daarin meldingen over de status van het systeem en de toegestane snelheid in een sectie. De ZUB-interface is geplaatst direct onder de snelheidsmeter. Overigens zijn de meldingen over toegestane snelheden niet leidend voor de bestuurder, maar dienen slechts ter ondersteuning en controle. De ZUB-interface bevat vier gekleurde knoppen. ROZ (Rijden Op Zicht, geel), TEST (systeemtest, blauw), SYS (systeemstatus, wit) en REM (remingreep, rood).&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;Links van de snelheidsmeter is de invoerterminal voor de boordcomputer geplaatst. Het instrument bevat een display en een numeriek toetsenbord, gecombineerd met functietoetsen. De bestuurder geeft voor aanvang van een rit een code op. Deze code geeft de te berijden lijn en route aan, evenals de treinlengte en eindbestemming.&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;img width=&quot;545&quot; height=&quot;409&quot; src=&quot;images/zub_pp_img_5.jpg&quot; /&gt;&lt;/div&gt;
+&lt;div style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Aangepaste bestuurderscabine met links naast de snelheidsmeter de boordcomputer (wit) en daaronder de ZUB-interface. Links van de ZUB-interface de knop&amp;nbsp;&quot;aanvraag vertrek&quot;.&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Apparatuur RSG3/SG3-rijtuig&lt;br /&gt; &lt;/strong&gt;In de RSG3/SG-rijtuigen is een combinatie-interface van ZUB en ATB ingebouwd. Het voertuig kan automatisch omschakelen van ZUB naar ATB en omgekeerd, zodra dit door de treinkoppelspoel wordt gesignaleerd. De seinbeelden worden op een iets aangepast ATB-paneel (zoals&amp;nbsp;in&amp;nbsp;type MG2/1 en&amp;nbsp;SG2/1)&amp;nbsp;getoond. De knop &quot;aanvraag vertrek&quot; is geïntegreerd bij de rij/remhendel, bij de bediening voor richtingaanwijzers, pantograaf en railremmen. De informatie voor IMU&amp;nbsp;is opgenomen in het Rijtuig Informatie Systeem (RIS).&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;img width=&quot;545&quot; height=&quot;409&quot; src=&quot;images/zub_pp_img_6.jpg&quot; /&gt;&lt;/div&gt;
+&lt;div style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;ZUB/ATB-interface in RSG3-rijtuig 5502.&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Seinbeelden&amp;nbsp;ZUB&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;
+&lt;table border=&quot;1&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;307&quot;&gt;
+&lt;div&gt;Rood&lt;/div&gt;
+&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;307&quot;&gt;
+&lt;div&gt;Stop, passeren van het sein is niet toegestaan.&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;307&quot;&gt;
+&lt;div&gt;Rood-Geel&lt;/div&gt;
+&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;307&quot;&gt;
+&lt;div&gt;Het eerstvolgende blok is bezet, passeren is toegestaan met een maximale snelheid van 10 km/h. Dit seinbeeld wordt vooral gebruikt om voertuigen te koppelen.&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;307&quot;&gt;
+&lt;div&gt;Geel&lt;/div&gt;
+&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;307&quot;&gt;
+&lt;div&gt;Het eerstvolgende blok is vrij, passeren van het sein is toegestaan. De snelheid dient verminderd te worden om voor het volgende sein te kunnen stoppen.&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;307&quot;&gt;
+&lt;div&gt;Geel, ondersteund door cijfer&lt;/div&gt;
+&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;307&quot;&gt;
+&lt;div&gt;Het eerstvolgende blok is vrij, passeren van het sein is toegestaan met de maximale snelheid die door het cijfer in tientallen km/h aangegeven wordt. De snelheid dient verminderd te worden om voor het volgende sein te kunnen stoppen.&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;307&quot;&gt;
+&lt;div&gt;Groen, ondersteund door cijfer&lt;/div&gt;
+&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;307&quot;&gt;
+&lt;div&gt;De eerstvolgende twee blokken zijn vrij. Passeren van het sein is toegestaan met de maximale snelheid die door het cijfer in tientallen km/h aangegeven wordt.&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;307&quot;&gt;
+&lt;div&gt;Groen, ondersteund met knipperend cijfer&lt;/div&gt;
+&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;307&quot;&gt;
+&lt;div&gt;De eerstvolgende twee blokken zijn vrij. Passeren van het sein is toegestaan. De snelheid dient verminderd te worden naar de maximale snelheid die door het cijfer in tientallen km/h aangegeven wordt. Deze snelheid moet bij het eerstvolgende sein bereikt zijn.&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/strong&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Op de trajecten van RandstadRail wordt het beveiligingssysteem ZUB 222c gebruikt. ZUB staat voor &lt;b&gt;ZU&lt;/b&gt;g &lt;b&gt;B&lt;/b&gt;eeinflussung en de leverancier is het Duitse Siemens. ZUB is een puntsgewijs spoorbeveiligingsysteem, dat gebruikt maakt van buitenseinen. Deze zijn leidend voor de bestuurder. De bestuurder ontvangt ook informatie in zijn cabine over het sein dat hij nadert of passeert, maar die informatie dient ter ondersteuning. Het systeem is daarom in grote mate afwijkend van het reguliere ATB-systeem van de Rotterdamse metro.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img width=&quot;545&quot; height=&quot;409&quot; src=&quot;images/zub_pp_img_1.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;ZUB&amp;nbsp;is in grote mate afwijkend van ATB, met name omdat het gebruik maakt van buitenseinen.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;div&gt;&lt;strong&gt;IXL-stations&lt;/strong&gt;&lt;br /&gt; Het hart van ZUB wordt gevormd door de IXL-stations, die verspreid langs de RandstadRail-trajecten staan. IXL is een interlockingsysteem dat wissels, seinen en overwegen aanstuurt, controleert en bewaakt. Met behulp van assentellers wordt vastgesteld of een spoorgedeelte al dan niet bezet is door een ander voertuig. ZUB controleert of de toegestane snelheid in het blok waar de trein zich bevindt niet overschreden wordt. Wanneer de snelheid overschreden wordt, zal de treininstallatie waarschuwen en zo nodig ingrijpen. De mate van de ingreep hangt af van de snelheidsoverschrijding.&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;
+&lt;table border=&quot;1&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;161&quot;&gt;
+&lt;div&gt;&lt;b&gt;Snelheid&lt;/b&gt;&lt;/div&gt;
+&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;453&quot;&gt;
+&lt;div&gt;&lt;b&gt;Reactie treininstallatie&lt;/b&gt;&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;161&quot;&gt;
+&lt;div&gt;0 km/h boven toegestane snelheid&lt;/div&gt;
+&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;453&quot;&gt;
+&lt;div&gt;Tractie opnemen onmogelijk&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;161&quot;&gt;
+&lt;div&gt;2 km/h boven toegestane snelheid&lt;/div&gt;
+&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;453&quot;&gt;
+&lt;div&gt;Dwangrem-ingreep met bedrijfsrem (66% remkoppel) tot onder de maximum toegestane snelheid.&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;161&quot;&gt;
+&lt;div&gt;5 km/h boven toegestane snelheid&lt;/div&gt;
+&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;453&quot;&gt;
+&lt;div&gt;Dwangrem-ingreep met bedrijfsrem (100% remkoppel) tot stilstand.&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;Puntsgewijs spoorbeveiligingssysteem&lt;/strong&gt;&lt;br /&gt; ZUB is een puntsgewijs spoorbeveiligingssysteem. Dit betekent dat er&amp;nbsp;bij elk lichtsein nieuwe informatie uitgewisseld wordt tussen het voertuig en het spoorbeveiligingsysteem. Deze communicatie vindt plaats via een signaal tussen de baankoppelspoel, die dicht in de buurt van ieder lichtsein geplaatst is, en de treinkoppelspoel, die op ieder kopdraaistel gemonteerd is aan de rechterzijde.&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;img width=&quot;545&quot; height=&quot;409&quot; src=&quot;images/zub_pp_img_2.jpg&quot; /&gt;&lt;/div&gt;
+&lt;div style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Treinkoppelspoel aan een RSG2-rijtuig.&lt;/strong&gt;&lt;/div&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;img width=&quot;545&quot; height=&quot;409&quot; src=&quot;images/zub_pp_img_3.jpg&quot; /&gt;&lt;/div&gt;
+&lt;div style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Baankoppelspoel (geel)&amp;nbsp;in de buurt van een buitensein.&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;Een nadeel van dit systeem is dat een positieve verandering in het seinbeeld niet direct door het voertuig opgepikt wordt, in tegenstelling tot het ATB-systeem van het metronet. Pas bij het passeren van het eerstvolgende lichtsein kan nieuwe informatie ontvangen, door de verbinding treinkoppelspoel-baankoppelspoel. Omdat deze constructie op sommige locaties de exploitatie kan hinderen, is er voor gekozen om lussen (maximaal 250 meter lang) te koppelen aan de baankoppelspoel, zodat nieuwe informatie al eerder ontvangen kan worden. Dit komt de exploitatie ten goede.&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;IMU&lt;/strong&gt;&lt;br /&gt; De RSG2-rijtuigen&amp;nbsp;(5261-5271)&amp;nbsp;kunnen zelf de rijwegen aansturen middels een boordcomputer. Voor aanvang van een rit dient een code ingevoerd te worden, die aangeeft welke lijn er gereden wordt en wat de route, treinlengte en eindbestemming is. De code die aan deze informatie verbonden wordt, wordt via de treinkoppelspoel verstuurd naar IMU (Induktives Meldungsübertragungssystem). Dit is een instrument dat gemonteerd is aan een spoorstaaf en ontvangt de code en geeft deze door aan de Rijweg Instel Automaat (RIA). RIA zorgt er vervolgens voor dat er op tijd een nieuwe rijweg ingesteld wordt en volgt de voertuigen tijdens de rit. IMU-lussen liggen met name op locaties waar nieuwe of andere routes ingesteld moeten worden (begin- of keerpunten).&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;img width=&quot;545&quot; height=&quot;409&quot; src=&quot;images/zub_pp_img_7.jpg&quot; /&gt;&lt;/div&gt;
+&lt;div style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Met de boordcomputer wordt een code via de treinkoppelspoel naar IMU (op de foto de witte box)&amp;nbsp;gestuurd.&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;Bijzonderheden van ZUB&lt;/strong&gt;&lt;br /&gt; ZUB bevat enkele bijzonderheden, die de exploitatie of de omgeving ten goede komen. Zo kan een bestuurder zelf de rijweg aanvragen. Dit is vooral handig bij het vertrekken van een station waar direct achter een overweg of overpad aangelegd is. Wanneer de stop op het station om wat voor reden dan ook langer duurt, blijft de overweg geopend en ontstaat er geen verkeershinder. Wanneer de bestuurder wil en kan vertrekken, bedient deze de knop “aanvraag vertrek”. Dan wordt de rijweg ingelegd en zal er een positief seinbeeld getoond worden. Dit voorkomt dat het voertuig de overweg kan bereiken wanneer de spoorbomen nog geopend zijn.&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;ZUB kan ook voorkomen dat er lagevloer-voertuigen op het hogevloertraject komen en omgekeerd. Dit risico doet zich vooral voor op de stations Laan van NOI en Leidschenveen en bij emplacement Leidschendam. Aan de hand van de voertuigcode zal de Rijweg Instel Automaat het voertuig altijd naar de goede bestemming sturen. Maar bij menselijke bediening vanaf de CVL kunnen vergissingen gemaakt worden. Daarom is er bij de splitsingen een wisselstandaanwijzer aangebracht. De bestuurder moet contact opnemen met de CVL wanneer de stand op deze aanwijzer niet overeenkomt met de normale rijweg. Als het voertuig het sein toch passeert, zal het direct stilgezet worden. Dit gebeurt buiten ZUB om.&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;Apparatuur in RSG2-rijtuig&lt;/strong&gt;&lt;br /&gt; De bestuurderscabine van de RSG2-rijtuigen werd voor de exploitatie op de RandstadRail Erasmuslijn (lijn E)&amp;nbsp;voor een gedeelte aangepast. Er werd een nieuwe snelheidsmeter, ZUB-interface en boordcomputer geplaatst. De snelheidsmeter is vergelijkbaar met die van de Bombardier-rijtuigen (type SG2/1 en MG2/1). Een gele wijzer geeft de werkelijke snelheid (“V ist”) aan, een rode wijzer geeft de toegestane snelheid aan (“V soll”). De laatste wijzer geeft tevens een remcurve aan, wanneer bijvoorbeeld minder positief seinbeeld genaderd wordt.&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;Zoals eerder beschreven, is elke cabine voorzien van een ZUB-interface. De ZUB-interface bestaat uit een display met daarin meldingen over de status van het systeem en de toegestane snelheid in een sectie. De ZUB-interface is geplaatst direct onder de snelheidsmeter. Overigens zijn de meldingen over toegestane snelheden niet leidend voor de bestuurder, maar dienen slechts ter ondersteuning en controle. De ZUB-interface bevat vier gekleurde knoppen. ROZ (Rijden Op Zicht, geel), TEST (systeemtest, blauw), SYS (systeemstatus, wit) en REM (remingreep, rood).&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;Links van de snelheidsmeter is de invoerterminal voor de boordcomputer geplaatst. Het instrument bevat een display en een numeriek toetsenbord, gecombineerd met functietoetsen. De bestuurder geeft voor aanvang van een rit een code op. Deze code geeft de te berijden lijn en route aan, evenals de treinlengte en eindbestemming.&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;img width=&quot;545&quot; height=&quot;409&quot; src=&quot;images/zub_pp_img_5.jpg&quot; /&gt;&lt;/div&gt;
+&lt;div style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Aangepaste bestuurderscabine met links naast de snelheidsmeter de boordcomputer (wit) en daaronder de ZUB-interface. Links van de ZUB-interface de knop&amp;nbsp;&quot;aanvraag vertrek&quot;.&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Apparatuur RSG3/SG3-rijtuig&lt;br /&gt; &lt;/strong&gt;In de RSG3/SG-rijtuigen is een combinatie-interface van ZUB en ATB ingebouwd. Het voertuig kan automatisch omschakelen van ZUB naar ATB en omgekeerd, zodra dit door de treinkoppelspoel wordt gesignaleerd. De seinbeelden worden op een iets aangepast ATB-paneel (zoals&amp;nbsp;in&amp;nbsp;type MG2/1 en&amp;nbsp;SG2/1)&amp;nbsp;getoond. De knop &quot;aanvraag vertrek&quot; is geïntegreerd bij de rij/remhendel, bij de bediening voor richtingaanwijzers, pantograaf en railremmen. De informatie voor IMU&amp;nbsp;is opgenomen in het Rijtuig Informatie Systeem (RIS).&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;&lt;img width=&quot;545&quot; height=&quot;409&quot; src=&quot;images/zub_pp_img_6.jpg&quot; /&gt;&lt;/div&gt;
+&lt;div style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;ZUB/ATB-interface in RSG3-rijtuig 5502.&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Seinbeelden&amp;nbsp;ZUB&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;
+&lt;table border=&quot;1&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;307&quot;&gt;
+&lt;div&gt;Rood&lt;/div&gt;
+&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;307&quot;&gt;
+&lt;div&gt;Stop, passeren van het sein is niet toegestaan.&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;307&quot;&gt;
+&lt;div&gt;Rood-Geel&lt;/div&gt;
+&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;307&quot;&gt;
+&lt;div&gt;Het eerstvolgende blok is bezet, passeren is toegestaan met een maximale snelheid van 10 km/h. Dit seinbeeld wordt vooral gebruikt om voertuigen te koppelen.&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;307&quot;&gt;
+&lt;div&gt;Geel&lt;/div&gt;
+&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;307&quot;&gt;
+&lt;div&gt;Het eerstvolgende blok is vrij, passeren van het sein is toegestaan. De snelheid dient verminderd te worden om voor het volgende sein te kunnen stoppen.&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;307&quot;&gt;
+&lt;div&gt;Geel, ondersteund door cijfer&lt;/div&gt;
+&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;307&quot;&gt;
+&lt;div&gt;Het eerstvolgende blok is vrij, passeren van het sein is toegestaan met de maximale snelheid die door het cijfer in tientallen km/h aangegeven wordt. De snelheid dient verminderd te worden om voor het volgende sein te kunnen stoppen.&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;307&quot;&gt;
+&lt;div&gt;Groen, ondersteund door cijfer&lt;/div&gt;
+&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;307&quot;&gt;
+&lt;div&gt;De eerstvolgende twee blokken zijn vrij. Passeren van het sein is toegestaan met de maximale snelheid die door het cijfer in tientallen km/h aangegeven wordt.&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;307&quot;&gt;
+&lt;div&gt;Groen, ondersteund met knipperend cijfer&lt;/div&gt;
+&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;307&quot;&gt;
+&lt;div&gt;De eerstvolgende twee blokken zijn vrij. Passeren van het sein is toegestaan. De snelheid dient verminderd te worden naar de maximale snelheid die door het cijfer in tientallen km/h aangegeven wordt. Deze snelheid moet bij het eerstvolgende sein bereikt zijn.&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/strong&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+		<category term="Infrastructuur" />
+	</entry>
+	<entry>
+		<title>Verkortingen</title>
+		<link rel="alternate" type="text/html" href="http://retmetro.nl/cms/infrastructuur/verkortingen"/>
+		<published>2008-12-07T14:55:11+00:00</published>
+		<updated>2008-12-07T14:55:11+00:00</updated>
+		<id>http://retmetro.nl/cms/infrastructuur/verkortingen</id>
+		<author>
+			<name>Joachim</name>
+			<email>joachim@retmetro.nl</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;a href=&quot;../index.php?option=com_content&amp;amp;view=article&amp;amp;id=268&amp;amp;Itemid=69&quot; style=&quot;font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; line-height: normal;&quot;&gt;&lt;img src=&quot;../../metroinfo/minfo_logo3.jpg&quot; width=&quot;122&quot; height=&quot;92&quot; style=&quot;margin-right: 5px; float: left;&quot; /&gt;&lt;/a&gt;Op het Rotterdamse metronet en op het RandstadRail-tracé worden naamsverkortingen voor stations, wisselcomplexen en gelijkvloerse kruisingen gebruikt. Op deze website wordt hier met regelmaat naar verwezen, zoals in de stationsdatabase of op sporenplannen.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;a href=&quot;../index.php?option=com_content&amp;amp;view=article&amp;amp;id=268&amp;amp;Itemid=69&quot; style=&quot;font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; line-height: normal;&quot;&gt;&lt;img src=&quot;../../metroinfo/minfo_logo3.jpg&quot; width=&quot;122&quot; height=&quot;92&quot; style=&quot;margin-right: 5px; float: left;&quot; /&gt;&lt;/a&gt;Op het Rotterdamse metronet en op het RandstadRail-tracé worden naamsverkortingen voor stations, wisselcomplexen en gelijkvloerse kruisingen gebruikt. Op deze website wordt hier met regelmaat naar verwezen, zoals in de stationsdatabase of op sporenplannen.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Infrastructuur" />
+	</entry>
+	<entry>
+		<title>Sporenplannen</title>
+		<link rel="alternate" type="text/html" href="http://retmetro.nl/cms/infrastructuur/sporenplan"/>
+		<published>2008-12-07T14:36:49+00:00</published>
+		<updated>2008-12-07T14:36:49+00:00</updated>
+		<id>http://retmetro.nl/cms/infrastructuur/sporenplan</id>
+		<author>
+			<name>Joachim</name>
+			<email>joachim@retmetro.nl</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p style=&quot;text-align: left&quot;&gt;Hieronder vind je het nieuwste sporenplan van het metronet van de RET. In het sporenplan kan je spoor-, wissel-, sein- en stroomgroepnummers terug vinden, ook overwegen, wisselcomplexen en stations staan er allemaal in. Naast het huidige net kan je ook terug in de tijd en enkele oude sporenplannen bekijken.&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: left&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: left&quot;&gt;&lt;em&gt;Door de grote en complexiteit van sommige bestanden kan het even duren voordat het sporenplan is geladen.&lt;/em&gt;&lt;/p&gt;
+&lt;p style=&quot;margin-top: 0.3em; margin-right: 0px; margin-bottom: 0.3em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; line-height: 15px; text-align: left; &quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;table border=&quot;0&quot; cellspacing=&quot;3&quot; cellpadding=&quot;1&quot; width=&quot;590&quot; align=&quot;center&quot; style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-color: rgb(211, 211, 211); border-right-color: rgb(211, 211, 211); border-bottom-color: rgb(211, 211, 211); border-left-color: rgb(211, 211, 211); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: dotted; border-right-style: dotted; border-bottom-style: dotted; border-left-style: dotted; &quot;&gt;
+    &lt;tbody style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; &quot;&gt;
+        &lt;tr style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; &quot;&gt;
+            &lt;td style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-color: rgb(211, 211, 211); border-right-color: rgb(211, 211, 211); border-bottom-color: rgb(211, 211, 211); border-left-color: rgb(211, 211, 211); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: dotted; border-right-style: dotted; border-bottom-style: dotted; border-left-style: dotted; &quot;&gt;&lt;a style=&quot;text-decoration: underline; &quot; href=&quot;http://www.retmetro.nl/metroinfo/Sporenplan2011.pdf&quot;&gt;&lt;img border=&quot;0&quot; width=&quot;122&quot; height=&quot;91&quot; alt=&quot;&quot; style=&quot;border-width: initial; border-color: initial; border-width: initial; border-color: initial; &quot; src=&quot;http://www.retmetro.nl/metroinfo/minfo_logo11.jpg&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+            &lt;td style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-color: rgb(211, 211, 211); border-right-color: rgb(211, 211, 211); border-bottom-color: rgb(211, 211, 211); border-left-color: rgb(211, 211, 211); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: dotted; border-right-style: dotted; border-bottom-style: dotted; border-left-style: dotted; &quot;&gt;
+            &lt;p style=&quot;line-height: 19px; &quot;&gt;&lt;span style=&quot;color: rgb(255, 0, 0); &quot;&gt;&lt;a style=&quot;text-decoration: underline; &quot; href=&quot;http://www.retmetro.nl/metroinfo/Sporenplan2011.pdf&quot;&gt;Sporenplan Metro Regio Rotterdam, 2011&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+            &lt;div&gt;Het sporenplan van de metro van de RET in de regio Rotterdam en RandstadRail van de HTM.&lt;/div&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; &quot;&gt;
+            &lt;td style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-color: rgb(211, 211, 211); border-right-color: rgb(211, 211, 211); border-bottom-color: rgb(211, 211, 211); border-left-color: rgb(211, 211, 211); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: dotted; border-right-style: dotted; border-bottom-style: dotted; border-left-style: dotted; &quot;&gt;&lt;a href=&quot;http://www.retmetro.nl/metroinfo/Sporenplan2010.pdf&quot;&gt;&lt;img border=&quot;0&quot; width=&quot;122&quot; height=&quot;91&quot; style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; &quot; alt=&quot;&quot; src=&quot;http://www.retmetro.nl/metroinfo/minfo_logo10.jpg&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+            &lt;td style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-color: rgb(211, 211, 211); border-right-color: rgb(211, 211, 211); border-bottom-color: rgb(211, 211, 211); border-left-color: rgb(211, 211, 211); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: dotted; border-right-style: dotted; border-bottom-style: dotted; border-left-style: dotted; &quot;&gt;
+            &lt;p&gt;&lt;span style=&quot;color: rgb(255, 0, 0); &quot;&gt;&lt;a href=&quot;http://www.retmetro.nl/metroinfo/Sporenplan2010.pdf&quot;&gt;Sporenplan Metro Regio Rotterdam, 2010&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+            &lt;div&gt;Het sporenplan van de metro van de RET in de regio Rotterdam en RandstadRail van de HTM.&lt;/div&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; &quot;&gt;
+            &lt;td style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-color: rgb(211, 211, 211); border-right-color: rgb(211, 211, 211); border-bottom-color: rgb(211, 211, 211); border-left-color: rgb(211, 211, 211); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: dotted; border-right-style: dotted; border-bottom-style: dotted; border-left-style: dotted; &quot;&gt;&lt;a style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; color: rgb(255, 0, 0); text-decoration: none; &quot; href=&quot;http://www.retmetro.nl/metroinfo/SporenplanRSR2008.pdf&quot;&gt;&lt;img width=&quot;122&quot; height=&quot;92&quot; style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; &quot; alt=&quot;&quot; src=&quot;http://www.retmetro.nl/cms/images/SPrsr08.jpg&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+            &lt;td style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-color: rgb(211, 211, 211); border-right-color: rgb(211, 211, 211); border-bottom-color: rgb(211, 211, 211); border-left-color: rgb(211, 211, 211); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: dotted; border-right-style: dotted; border-bottom-style: dotted; border-left-style: dotted; &quot;&gt;
+            &lt;div&gt;&lt;span style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; color: rgb(255, 0, 0); &quot;&gt;&lt;a href=&quot;http://www.retmetro.nl/metroinfo/SporenplanRSR2008.pdf&quot;&gt;Sporenplan RandstadRail, 2008&lt;/a&gt;&lt;/span&gt;&lt;br style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; &quot; /&gt;
+            De voormalige Hofpleinlijn en Zoetermeerstadslijn als metro en sneltram.&lt;/div&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; &quot;&gt;
+            &lt;td style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-color: rgb(211, 211, 211); border-right-color: rgb(211, 211, 211); border-bottom-color: rgb(211, 211, 211); border-left-color: rgb(211, 211, 211); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: dotted; border-right-style: dotted; border-bottom-style: dotted; border-left-style: dotted; &quot;&gt;&lt;a style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; color: rgb(255, 0, 0); text-decoration: none; &quot; href=&quot;http://www.retmetro.nl/metroinfo/SporenplanCL2005.pdf&quot;&gt;&lt;img border=&quot;0&quot; style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; &quot; alt=&quot;&quot; src=&quot;http://www.retmetro.nl/cms/images/SPcal05.jpg&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+            &lt;td style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-color: rgb(211, 211, 211); border-right-color: rgb(211, 211, 211); border-bottom-color: rgb(211, 211, 211); border-left-color: rgb(211, 211, 211); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: dotted; border-right-style: dotted; border-bottom-style: dotted; border-left-style: dotted; &quot;&gt;
+            &lt;p style=&quot;margin-top: 0.3em; margin-right: 0px; margin-bottom: 0.3em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; line-height: 19px; text-align: left; &quot;&gt;&lt;span style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; color: rgb(255, 0, 0); &quot;&gt;&lt;a href=&quot;http://www.retmetro.nl/metroinfo/SporenplanCL2005.pdf&quot;&gt;Sporenplan Calandlijn, 2005&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+            &lt;p style=&quot;margin-top: 0.3em; margin-right: 0px; margin-bottom: 0.3em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; line-height: 19px; text-align: left; &quot;&gt;Spijkenisse/Schiedam Centrum - Ommoord/Nesselande/Capelle a/d IJssel.&lt;/p&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; &quot;&gt;
+            &lt;td style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-color: rgb(211, 211, 211); border-right-color: rgb(211, 211, 211); border-bottom-color: rgb(211, 211, 211); border-left-color: rgb(211, 211, 211); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: dotted; border-right-style: dotted; border-bottom-style: dotted; border-left-style: dotted; &quot;&gt;&lt;a style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; color: rgb(255, 0, 0); text-decoration: none; &quot; href=&quot;http://www.retmetro.nl/metroinfo/SporenplanEL2005.pdf&quot;&gt;&lt;img border=&quot;0&quot; width=&quot;122&quot; height=&quot;92&quot; style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; &quot; alt=&quot;&quot; src=&quot;http://www.retmetro.nl/cms/images/SPera05.jpg&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+            &lt;td style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-color: rgb(211, 211, 211); border-right-color: rgb(211, 211, 211); border-bottom-color: rgb(211, 211, 211); border-left-color: rgb(211, 211, 211); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: dotted; border-right-style: dotted; border-bottom-style: dotted; border-left-style: dotted; &quot;&gt;
+            &lt;p style=&quot;margin-top: 0.3em; margin-right: 0px; margin-bottom: 0.3em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; line-height: 19px; text-align: left; &quot;&gt;&lt;span style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; color: rgb(255, 0, 0); &quot;&gt;&lt;a href=&quot;http://www.retmetro.nl/metroinfo/SporenplanEL2005.pdf&quot;&gt;Sporenplan Erasmuslijn, 2005&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+            &lt;p style=&quot;margin-top: 0.3em; margin-right: 0px; margin-bottom: 0.3em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; line-height: 19px; text-align: left; &quot;&gt;Centraal Station - Spijkenisse. De uitloopsporen van de Akkers zijn een emplacement geworden en de Aveling is geschikt gemaakt voor keren op Hoogvliet.&lt;/p&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; &quot;&gt;
+            &lt;td style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-color: rgb(211, 211, 211); border-right-color: rgb(211, 211, 211); border-bottom-color: rgb(211, 211, 211); border-left-color: rgb(211, 211, 211); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: dotted; border-right-style: dotted; border-bottom-style: dotted; border-left-style: dotted; &quot;&gt;&lt;a style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; color: rgb(255, 0, 0); text-decoration: none; &quot; href=&quot;http://www.retmetro.nl/metroinfo/SporenplanBNL.pdf&quot;&gt;&lt;img border=&quot;0&quot; width=&quot;122&quot; height=&quot;92&quot; style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; &quot; alt=&quot;&quot; src=&quot;http://www.retmetro.nl/cms/images/SPbnl.jpg&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+            &lt;td style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-color: rgb(211, 211, 211); border-right-color: rgb(211, 211, 211); border-bottom-color: rgb(211, 211, 211); border-left-color: rgb(211, 211, 211); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: dotted; border-right-style: dotted; border-bottom-style: dotted; border-left-style: dotted; &quot;&gt;
+            &lt;p style=&quot;margin-top: 0.3em; margin-right: 0px; margin-bottom: 0.3em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; line-height: 19px; text-align: left; &quot;&gt;&lt;span style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; color: rgb(255, 0, 0); &quot;&gt;&lt;a href=&quot;http://www.retmetro.nl/metroinfo/SporenplanBNL.pdf&quot;&gt;Sporenplan Beneluxlijn, 2002&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+            &lt;p style=&quot;margin-top: 0.3em; margin-right: 0px; margin-bottom: 0.3em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; line-height: 19px; text-align: left; &quot;&gt;Plantekening voor traject Marconiplein - Tussenwater. Bij Schiedam Centrum is goed de geplande aansluiting te zien naar Hoek van Holland.&lt;/p&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; &quot;&gt;
+            &lt;td style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-color: rgb(211, 211, 211); border-right-color: rgb(211, 211, 211); border-bottom-color: rgb(211, 211, 211); border-left-color: rgb(211, 211, 211); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: dotted; border-right-style: dotted; border-bottom-style: dotted; border-left-style: dotted; &quot;&gt;&lt;a style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; color: rgb(255, 0, 0); text-decoration: none; &quot; href=&quot;http://www.retmetro.nl/metroinfo/SporenplanOW.pdf&quot;&gt;&lt;img width=&quot;122&quot; height=&quot;92&quot; style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; &quot; alt=&quot;&quot; src=&quot;http://www.retmetro.nl/cms/images/SPow.jpg&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+            &lt;td style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-color: rgb(211, 211, 211); border-right-color: rgb(211, 211, 211); border-bottom-color: rgb(211, 211, 211); border-left-color: rgb(211, 211, 211); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: dotted; border-right-style: dotted; border-bottom-style: dotted; border-left-style: dotted; &quot;&gt;
+            &lt;p style=&quot;margin-top: 0.3em; margin-right: 0px; margin-bottom: 0.3em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; line-height: 19px; text-align: left; &quot;&gt;&lt;span style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; color: rgb(255, 0, 0); &quot;&gt;&lt;a href=&quot;http://www.retmetro.nl/metroinfo/SporenplanOW.pdf&quot;&gt;Sporenplan Oost-Westlijn, jaren 90&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+            &lt;p style=&quot;margin-top: 0.3em; margin-right: 0px; margin-bottom: 0.3em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; line-height: 19px; text-align: left; &quot;&gt;Marconiplein - Ommoord/Zevenkam/Capelle a/d IJssel.&lt;/p&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; &quot;&gt;
+            &lt;td style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-color: rgb(211, 211, 211); border-right-color: rgb(211, 211, 211); border-bottom-color: rgb(211, 211, 211); border-left-color: rgb(211, 211, 211); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: dotted; border-right-style: dotted; border-bottom-style: dotted; border-left-style: dotted; &quot;&gt;&lt;a style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; color: rgb(255, 0, 0); text-decoration: none; &quot; href=&quot;http://www.retmetro.nl/metroinfo/SporenplanNZ.pdf&quot;&gt;&lt;img width=&quot;122&quot; height=&quot;92&quot; style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; &quot; alt=&quot;&quot; src=&quot;http://www.retmetro.nl/cms/images/SPnz.jpg&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+            &lt;td style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-color: rgb(211, 211, 211); border-right-color: rgb(211, 211, 211); border-bottom-color: rgb(211, 211, 211); border-left-color: rgb(211, 211, 211); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: dotted; border-right-style: dotted; border-bottom-style: dotted; border-left-style: dotted; &quot;&gt;
+            &lt;p style=&quot;margin-top: 0.3em; margin-right: 0px; margin-bottom: 0.3em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; line-height: 19px; text-align: left; &quot;&gt;&lt;span style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; color: rgb(255, 0, 0); &quot;&gt;&lt;a href=&quot;http://www.retmetro.nl/metroinfo/SporenplanNZ.pdf&quot;&gt;Sporenplan Noord zuidlijn, jaren 90&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+            &lt;p style=&quot;margin-top: 0.3em; margin-right: 0px; margin-bottom: 0.3em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; line-height: 19px; text-align: left; &quot;&gt;Centraal Station - Spijkenisse, op dit sporenplan is remise Hilledijk nog verbonden met het metronet en heeft de Aveling nog twee opstelsporen.&lt;/p&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p style=&quot;text-align: left&quot;&gt;Hieronder vind je het nieuwste sporenplan van het metronet van de RET. In het sporenplan kan je spoor-, wissel-, sein- en stroomgroepnummers terug vinden, ook overwegen, wisselcomplexen en stations staan er allemaal in. Naast het huidige net kan je ook terug in de tijd en enkele oude sporenplannen bekijken.&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: left&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: left&quot;&gt;&lt;em&gt;Door de grote en complexiteit van sommige bestanden kan het even duren voordat het sporenplan is geladen.&lt;/em&gt;&lt;/p&gt;
+&lt;p style=&quot;margin-top: 0.3em; margin-right: 0px; margin-bottom: 0.3em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; line-height: 15px; text-align: left; &quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;table border=&quot;0&quot; cellspacing=&quot;3&quot; cellpadding=&quot;1&quot; width=&quot;590&quot; align=&quot;center&quot; style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-color: rgb(211, 211, 211); border-right-color: rgb(211, 211, 211); border-bottom-color: rgb(211, 211, 211); border-left-color: rgb(211, 211, 211); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: dotted; border-right-style: dotted; border-bottom-style: dotted; border-left-style: dotted; &quot;&gt;
+    &lt;tbody style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; &quot;&gt;
+        &lt;tr style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; &quot;&gt;
+            &lt;td style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-color: rgb(211, 211, 211); border-right-color: rgb(211, 211, 211); border-bottom-color: rgb(211, 211, 211); border-left-color: rgb(211, 211, 211); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: dotted; border-right-style: dotted; border-bottom-style: dotted; border-left-style: dotted; &quot;&gt;&lt;a style=&quot;text-decoration: underline; &quot; href=&quot;http://www.retmetro.nl/metroinfo/Sporenplan2011.pdf&quot;&gt;&lt;img border=&quot;0&quot; width=&quot;122&quot; height=&quot;91&quot; alt=&quot;&quot; style=&quot;border-width: initial; border-color: initial; border-width: initial; border-color: initial; &quot; src=&quot;http://www.retmetro.nl/metroinfo/minfo_logo11.jpg&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+            &lt;td style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-color: rgb(211, 211, 211); border-right-color: rgb(211, 211, 211); border-bottom-color: rgb(211, 211, 211); border-left-color: rgb(211, 211, 211); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: dotted; border-right-style: dotted; border-bottom-style: dotted; border-left-style: dotted; &quot;&gt;
+            &lt;p style=&quot;line-height: 19px; &quot;&gt;&lt;span style=&quot;color: rgb(255, 0, 0); &quot;&gt;&lt;a style=&quot;text-decoration: underline; &quot; href=&quot;http://www.retmetro.nl/metroinfo/Sporenplan2011.pdf&quot;&gt;Sporenplan Metro Regio Rotterdam, 2011&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+            &lt;div&gt;Het sporenplan van de metro van de RET in de regio Rotterdam en RandstadRail van de HTM.&lt;/div&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; &quot;&gt;
+            &lt;td style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-color: rgb(211, 211, 211); border-right-color: rgb(211, 211, 211); border-bottom-color: rgb(211, 211, 211); border-left-color: rgb(211, 211, 211); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: dotted; border-right-style: dotted; border-bottom-style: dotted; border-left-style: dotted; &quot;&gt;&lt;a href=&quot;http://www.retmetro.nl/metroinfo/Sporenplan2010.pdf&quot;&gt;&lt;img border=&quot;0&quot; width=&quot;122&quot; height=&quot;91&quot; style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; &quot; alt=&quot;&quot; src=&quot;http://www.retmetro.nl/metroinfo/minfo_logo10.jpg&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+            &lt;td style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-color: rgb(211, 211, 211); border-right-color: rgb(211, 211, 211); border-bottom-color: rgb(211, 211, 211); border-left-color: rgb(211, 211, 211); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: dotted; border-right-style: dotted; border-bottom-style: dotted; border-left-style: dotted; &quot;&gt;
+            &lt;p&gt;&lt;span style=&quot;color: rgb(255, 0, 0); &quot;&gt;&lt;a href=&quot;http://www.retmetro.nl/metroinfo/Sporenplan2010.pdf&quot;&gt;Sporenplan Metro Regio Rotterdam, 2010&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+            &lt;div&gt;Het sporenplan van de metro van de RET in de regio Rotterdam en RandstadRail van de HTM.&lt;/div&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; &quot;&gt;
+            &lt;td style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-color: rgb(211, 211, 211); border-right-color: rgb(211, 211, 211); border-bottom-color: rgb(211, 211, 211); border-left-color: rgb(211, 211, 211); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: dotted; border-right-style: dotted; border-bottom-style: dotted; border-left-style: dotted; &quot;&gt;&lt;a style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; color: rgb(255, 0, 0); text-decoration: none; &quot; href=&quot;http://www.retmetro.nl/metroinfo/SporenplanRSR2008.pdf&quot;&gt;&lt;img width=&quot;122&quot; height=&quot;92&quot; style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; &quot; alt=&quot;&quot; src=&quot;http://www.retmetro.nl/cms/images/SPrsr08.jpg&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+            &lt;td style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-color: rgb(211, 211, 211); border-right-color: rgb(211, 211, 211); border-bottom-color: rgb(211, 211, 211); border-left-color: rgb(211, 211, 211); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: dotted; border-right-style: dotted; border-bottom-style: dotted; border-left-style: dotted; &quot;&gt;
+            &lt;div&gt;&lt;span style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; color: rgb(255, 0, 0); &quot;&gt;&lt;a href=&quot;http://www.retmetro.nl/metroinfo/SporenplanRSR2008.pdf&quot;&gt;Sporenplan RandstadRail, 2008&lt;/a&gt;&lt;/span&gt;&lt;br style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; &quot; /&gt;
+            De voormalige Hofpleinlijn en Zoetermeerstadslijn als metro en sneltram.&lt;/div&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; &quot;&gt;
+            &lt;td style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-color: rgb(211, 211, 211); border-right-color: rgb(211, 211, 211); border-bottom-color: rgb(211, 211, 211); border-left-color: rgb(211, 211, 211); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: dotted; border-right-style: dotted; border-bottom-style: dotted; border-left-style: dotted; &quot;&gt;&lt;a style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; color: rgb(255, 0, 0); text-decoration: none; &quot; href=&quot;http://www.retmetro.nl/metroinfo/SporenplanCL2005.pdf&quot;&gt;&lt;img border=&quot;0&quot; style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; &quot; alt=&quot;&quot; src=&quot;http://www.retmetro.nl/cms/images/SPcal05.jpg&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+            &lt;td style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-color: rgb(211, 211, 211); border-right-color: rgb(211, 211, 211); border-bottom-color: rgb(211, 211, 211); border-left-color: rgb(211, 211, 211); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: dotted; border-right-style: dotted; border-bottom-style: dotted; border-left-style: dotted; &quot;&gt;
+            &lt;p style=&quot;margin-top: 0.3em; margin-right: 0px; margin-bottom: 0.3em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; line-height: 19px; text-align: left; &quot;&gt;&lt;span style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; color: rgb(255, 0, 0); &quot;&gt;&lt;a href=&quot;http://www.retmetro.nl/metroinfo/SporenplanCL2005.pdf&quot;&gt;Sporenplan Calandlijn, 2005&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+            &lt;p style=&quot;margin-top: 0.3em; margin-right: 0px; margin-bottom: 0.3em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; line-height: 19px; text-align: left; &quot;&gt;Spijkenisse/Schiedam Centrum - Ommoord/Nesselande/Capelle a/d IJssel.&lt;/p&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; &quot;&gt;
+            &lt;td style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-color: rgb(211, 211, 211); border-right-color: rgb(211, 211, 211); border-bottom-color: rgb(211, 211, 211); border-left-color: rgb(211, 211, 211); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: dotted; border-right-style: dotted; border-bottom-style: dotted; border-left-style: dotted; &quot;&gt;&lt;a style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; color: rgb(255, 0, 0); text-decoration: none; &quot; href=&quot;http://www.retmetro.nl/metroinfo/SporenplanEL2005.pdf&quot;&gt;&lt;img border=&quot;0&quot; width=&quot;122&quot; height=&quot;92&quot; style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; &quot; alt=&quot;&quot; src=&quot;http://www.retmetro.nl/cms/images/SPera05.jpg&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+            &lt;td style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-color: rgb(211, 211, 211); border-right-color: rgb(211, 211, 211); border-bottom-color: rgb(211, 211, 211); border-left-color: rgb(211, 211, 211); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: dotted; border-right-style: dotted; border-bottom-style: dotted; border-left-style: dotted; &quot;&gt;
+            &lt;p style=&quot;margin-top: 0.3em; margin-right: 0px; margin-bottom: 0.3em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; line-height: 19px; text-align: left; &quot;&gt;&lt;span style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; color: rgb(255, 0, 0); &quot;&gt;&lt;a href=&quot;http://www.retmetro.nl/metroinfo/SporenplanEL2005.pdf&quot;&gt;Sporenplan Erasmuslijn, 2005&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+            &lt;p style=&quot;margin-top: 0.3em; margin-right: 0px; margin-bottom: 0.3em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; line-height: 19px; text-align: left; &quot;&gt;Centraal Station - Spijkenisse. De uitloopsporen van de Akkers zijn een emplacement geworden en de Aveling is geschikt gemaakt voor keren op Hoogvliet.&lt;/p&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; &quot;&gt;
+            &lt;td style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-color: rgb(211, 211, 211); border-right-color: rgb(211, 211, 211); border-bottom-color: rgb(211, 211, 211); border-left-color: rgb(211, 211, 211); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: dotted; border-right-style: dotted; border-bottom-style: dotted; border-left-style: dotted; &quot;&gt;&lt;a style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; color: rgb(255, 0, 0); text-decoration: none; &quot; href=&quot;http://www.retmetro.nl/metroinfo/SporenplanBNL.pdf&quot;&gt;&lt;img border=&quot;0&quot; width=&quot;122&quot; height=&quot;92&quot; style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; &quot; alt=&quot;&quot; src=&quot;http://www.retmetro.nl/cms/images/SPbnl.jpg&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+            &lt;td style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-color: rgb(211, 211, 211); border-right-color: rgb(211, 211, 211); border-bottom-color: rgb(211, 211, 211); border-left-color: rgb(211, 211, 211); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: dotted; border-right-style: dotted; border-bottom-style: dotted; border-left-style: dotted; &quot;&gt;
+            &lt;p style=&quot;margin-top: 0.3em; margin-right: 0px; margin-bottom: 0.3em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; line-height: 19px; text-align: left; &quot;&gt;&lt;span style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; color: rgb(255, 0, 0); &quot;&gt;&lt;a href=&quot;http://www.retmetro.nl/metroinfo/SporenplanBNL.pdf&quot;&gt;Sporenplan Beneluxlijn, 2002&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+            &lt;p style=&quot;margin-top: 0.3em; margin-right: 0px; margin-bottom: 0.3em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; line-height: 19px; text-align: left; &quot;&gt;Plantekening voor traject Marconiplein - Tussenwater. Bij Schiedam Centrum is goed de geplande aansluiting te zien naar Hoek van Holland.&lt;/p&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; &quot;&gt;
+            &lt;td style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-color: rgb(211, 211, 211); border-right-color: rgb(211, 211, 211); border-bottom-color: rgb(211, 211, 211); border-left-color: rgb(211, 211, 211); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: dotted; border-right-style: dotted; border-bottom-style: dotted; border-left-style: dotted; &quot;&gt;&lt;a style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; color: rgb(255, 0, 0); text-decoration: none; &quot; href=&quot;http://www.retmetro.nl/metroinfo/SporenplanOW.pdf&quot;&gt;&lt;img width=&quot;122&quot; height=&quot;92&quot; style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; &quot; alt=&quot;&quot; src=&quot;http://www.retmetro.nl/cms/images/SPow.jpg&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+            &lt;td style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-color: rgb(211, 211, 211); border-right-color: rgb(211, 211, 211); border-bottom-color: rgb(211, 211, 211); border-left-color: rgb(211, 211, 211); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: dotted; border-right-style: dotted; border-bottom-style: dotted; border-left-style: dotted; &quot;&gt;
+            &lt;p style=&quot;margin-top: 0.3em; margin-right: 0px; margin-bottom: 0.3em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; line-height: 19px; text-align: left; &quot;&gt;&lt;span style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; color: rgb(255, 0, 0); &quot;&gt;&lt;a href=&quot;http://www.retmetro.nl/metroinfo/SporenplanOW.pdf&quot;&gt;Sporenplan Oost-Westlijn, jaren 90&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+            &lt;p style=&quot;margin-top: 0.3em; margin-right: 0px; margin-bottom: 0.3em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; line-height: 19px; text-align: left; &quot;&gt;Marconiplein - Ommoord/Zevenkam/Capelle a/d IJssel.&lt;/p&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; &quot;&gt;
+            &lt;td style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-color: rgb(211, 211, 211); border-right-color: rgb(211, 211, 211); border-bottom-color: rgb(211, 211, 211); border-left-color: rgb(211, 211, 211); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: dotted; border-right-style: dotted; border-bottom-style: dotted; border-left-style: dotted; &quot;&gt;&lt;a style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; color: rgb(255, 0, 0); text-decoration: none; &quot; href=&quot;http://www.retmetro.nl/metroinfo/SporenplanNZ.pdf&quot;&gt;&lt;img width=&quot;122&quot; height=&quot;92&quot; style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; &quot; alt=&quot;&quot; src=&quot;http://www.retmetro.nl/cms/images/SPnz.jpg&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+            &lt;td style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-color: rgb(211, 211, 211); border-right-color: rgb(211, 211, 211); border-bottom-color: rgb(211, 211, 211); border-left-color: rgb(211, 211, 211); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: dotted; border-right-style: dotted; border-bottom-style: dotted; border-left-style: dotted; &quot;&gt;
+            &lt;p style=&quot;margin-top: 0.3em; margin-right: 0px; margin-bottom: 0.3em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; line-height: 19px; text-align: left; &quot;&gt;&lt;span style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; color: rgb(255, 0, 0); &quot;&gt;&lt;a href=&quot;http://www.retmetro.nl/metroinfo/SporenplanNZ.pdf&quot;&gt;Sporenplan Noord zuidlijn, jaren 90&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+            &lt;p style=&quot;margin-top: 0.3em; margin-right: 0px; margin-bottom: 0.3em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; line-height: 19px; text-align: left; &quot;&gt;Centraal Station - Spijkenisse, op dit sporenplan is remise Hilledijk nog verbonden met het metronet en heeft de Aveling nog twee opstelsporen.&lt;/p&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Infrastructuur" />
+	</entry>
+	<entry>
+		<title>Centrale Verkeersleiding</title>
+		<link rel="alternate" type="text/html" href="http://retmetro.nl/cms/infrastructuur/cvl"/>
+		<published>2008-12-07T14:20:20+00:00</published>
+		<updated>2008-12-07T14:20:20+00:00</updated>
+		<id>http://retmetro.nl/cms/infrastructuur/cvl</id>
+		<author>
+			<name>Joachim</name>
+			<email>joachim@retmetro.nl</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Het kloppend hart van de RET: de Centrale Verkeersleiding, kortweg CVL. De CVL is gevestigd tussen de stations Capelsebrug en Kralingse Zoom, tegenover emplacement 's-Gravenweg. Van hieruit worden metro, bus en de tram begeleid. In geval van bijzonderheden kan de CVL ingrijpen en/of advies geven bij bepaalde omstandigheden: een uitgevallen metro of tram, een storing of een calamiteit.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;alt&quot; width=&quot;545&quot; height=&quot;409&quot; src=&quot;../../metroinfo/cvl_3.jpg&quot; style=&quot;text-align: center; display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img alt=&quot;alt&quot; width=&quot;545&quot; height=&quot;346&quot; src=&quot;../../metroinfo/cvl_buiten.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Het gebouw waarin de Centrale Verkeersleiding gevestigd is.&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;De medewerkers op de CVL verzorgen de metrodienst, dit gebeurt door de verkeersleider en de drie treindienstleiders. Een groot wandtableau geeft de treinbewegingen weer. Elke sectie kan apart op een beeldscherm verkregen worden. Op het grote wandtableau, kan men handmatig rijwegen stellen, dit kan ook(en dat gebeurt vaker) met de computer, met behulp van het VKL(VerKeersLeider)-systeem. Hieronder een foto van het wandtableau, klik op de foto voor de grote versie:&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;../../metroinfo/wandtableau.jpg&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;alt&quot; width=&quot;545&quot; height=&quot;72&quot; src=&quot;../../metroinfo/cvl_kl_wandtableau.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Klik op de foto voor een vergroting. Op het tableau komen letters voor, die in de volgende tabel opgesomd zijn.&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;table border=&quot;0&quot; cellpadding=&quot;1&quot; align=&quot;center&quot; style=&quot;width: 545px;&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th bgcolor=&quot;#ff0000&quot; scope=&quot;row&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style44&quot;&gt;A&lt;/span&gt;&lt;/span&gt;&lt;/th&gt;
+&lt;td bgcolor=&quot;#cccccc&quot; width=&quot;498&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;De Akkers&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th bgcolor=&quot;#ff0000&quot; scope=&quot;row&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style44&quot;&gt;B&lt;/span&gt;&lt;/span&gt;&lt;/th&gt;
+&lt;td bgcolor=&quot;#cccccc&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Binnenhof&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th bgcolor=&quot;#ff0000&quot; scope=&quot;row&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style44&quot;&gt;C&lt;/span&gt;&lt;/span&gt;&lt;/th&gt;
+&lt;td bgcolor=&quot;#cccccc&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Centraal Station&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th bgcolor=&quot;#ff0000&quot; scope=&quot;row&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style44&quot;&gt;D&lt;/span&gt;&lt;/span&gt;&lt;/th&gt;
+&lt;td bgcolor=&quot;#cccccc&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Schiedam Centrum&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th bgcolor=&quot;#ff0000&quot; scope=&quot;row&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style44&quot;&gt;G&lt;/span&gt;&lt;/span&gt;&lt;/th&gt;
+&lt;td bgcolor=&quot;#cccccc&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;emplacement 's-Gravenweg&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th bgcolor=&quot;#ff0000&quot; scope=&quot;row&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style44&quot;&gt;H&lt;/span&gt;&lt;/span&gt;&lt;/th&gt;
+&lt;td bgcolor=&quot;#cccccc&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Aveling&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th bgcolor=&quot;#ff0000&quot; scope=&quot;row&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style44&quot;&gt;K&lt;/span&gt;&lt;/span&gt;&lt;/th&gt;
+&lt;td bgcolor=&quot;#cccccc&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Kralingse Zoom &lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th bgcolor=&quot;#ff0000&quot; scope=&quot;row&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style44&quot;&gt;N&lt;/span&gt;&lt;/span&gt;&lt;/th&gt;
+&lt;td bgcolor=&quot;#cccccc&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;De Tochten &lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th bgcolor=&quot;#ff0000&quot; scope=&quot;row&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style44&quot;&gt;P&lt;/span&gt;&lt;/span&gt;&lt;/th&gt;
+&lt;td bgcolor=&quot;#cccccc&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Capelsebrug&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th bgcolor=&quot;#ff0000&quot; scope=&quot;row&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style44&quot;&gt;S&lt;/span&gt;&lt;/span&gt;&lt;/th&gt;
+&lt;td bgcolor=&quot;#cccccc&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Slinge&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th bgcolor=&quot;#ff0000&quot; scope=&quot;row&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style45&quot;&gt;&lt;strong&gt;T&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/th&gt;
+&lt;td bgcolor=&quot;#cccccc&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;De Terp &lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th bgcolor=&quot;#ff0000&quot; scope=&quot;row&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style45&quot;&gt;&lt;strong&gt;U&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/th&gt;
+&lt;td bgcolor=&quot;#cccccc&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Tussenwater&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th bgcolor=&quot;#ff0000&quot; scope=&quot;row&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style44&quot;&gt;V&lt;/span&gt;&lt;/span&gt;&lt;/th&gt;
+&lt;td bgcolor=&quot;#cccccc&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Verbindingsboog&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th bgcolor=&quot;#ff0000&quot; scope=&quot;row&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style44&quot;&gt;W&lt;/span&gt;&lt;/span&gt;&lt;/th&gt;
+&lt;td bgcolor=&quot;#cccccc&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;emplacement Waalhaven &lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img alt=&quot;alt&quot; width=&quot;545&quot; height=&quot;409&quot; src=&quot;../../metroinfo/cvl_4.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;De dienstleiders van de verschillende trajectdelen kunnen zowel op het wandtebleau als op hun scherm de actuele treinenloop volgen en eventueel bijsturen.&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Tram en bus&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;Ook de bus- en tramdienst wordt begeleid vanuit de Centrale Verkeersleiding tussen de stations Capelsebrug en Kralingse Zoom. Bij verstoringen van de dienstregeling kunnen de dienstleiders van de bus en tram maatregelen treffen. Onderstaande foto geeft een beeld van de dienstleiding bus/tram.&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img alt=&quot;alt&quot; width=&quot;545&quot; height=&quot;409&quot; src=&quot;../../metroinfo/cvl_1.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Centralisten&lt;/strong&gt;&lt;br /&gt; Aan de andere kant van de CVL, afgezonderd van de treindienstleiding, vinden we de centralisten. Zij waken over de veiligheid van de reiziger op de stations, 24 uur per dag, 7 dagen per week, 365 dagen per jaar. Elk station wordt in de gaten gehouden. Mocht er geweld plaatsvinden op een van de stations, dan wordt er een team van RET en zonodig politie naar toegestuurd. Er is een directe verbinding tussen RET Centrale Verkeersleiding en de politie.&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img alt=&quot;alt&quot; width=&quot;545&quot; height=&quot;409&quot; src=&quot;../../metroinfo/cvl_2.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Relaisruimte&lt;/strong&gt;&lt;br /&gt; Onder de Centrale Verkeersleiding is de relaisruimte gevestigd van het metronet. Vanuit hier worden ATB-signalen gestuurd naar de baan zelf en andere relaisruimtes van het Rotterdamse metronet. Een ingewikkeld systeem van relais, draden en lampjes moet de relaisruimte voorstellen. Eigenlijk zijn de relaisruimten weer het kloppend hart van de Automatische Treinbeïnvloeding. Het relaissysteem kijkt of er een metro in een bepaalde sectie rijdt en geeft, indien nodig, een bezetmelding. Zie hiervoor de pagina over &lt;a href=&quot;index.php?option=com_content&amp;amp;view=article&amp;amp;id=264&amp;amp;Itemid=65&quot;&gt;Automatische Treinbeïnvloeding&lt;/a&gt;. Voorheen zat de Centrale Verkeersleiding (toen nog Post T) op remise Hilledijk, maar ruimte werd hier te klein.&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Het kloppend hart van de RET: de Centrale Verkeersleiding, kortweg CVL. De CVL is gevestigd tussen de stations Capelsebrug en Kralingse Zoom, tegenover emplacement 's-Gravenweg. Van hieruit worden metro, bus en de tram begeleid. In geval van bijzonderheden kan de CVL ingrijpen en/of advies geven bij bepaalde omstandigheden: een uitgevallen metro of tram, een storing of een calamiteit.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;alt&quot; width=&quot;545&quot; height=&quot;409&quot; src=&quot;../../metroinfo/cvl_3.jpg&quot; style=&quot;text-align: center; display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img alt=&quot;alt&quot; width=&quot;545&quot; height=&quot;346&quot; src=&quot;../../metroinfo/cvl_buiten.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Het gebouw waarin de Centrale Verkeersleiding gevestigd is.&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;De medewerkers op de CVL verzorgen de metrodienst, dit gebeurt door de verkeersleider en de drie treindienstleiders. Een groot wandtableau geeft de treinbewegingen weer. Elke sectie kan apart op een beeldscherm verkregen worden. Op het grote wandtableau, kan men handmatig rijwegen stellen, dit kan ook(en dat gebeurt vaker) met de computer, met behulp van het VKL(VerKeersLeider)-systeem. Hieronder een foto van het wandtableau, klik op de foto voor de grote versie:&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;../../metroinfo/wandtableau.jpg&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;alt&quot; width=&quot;545&quot; height=&quot;72&quot; src=&quot;../../metroinfo/cvl_kl_wandtableau.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Klik op de foto voor een vergroting. Op het tableau komen letters voor, die in de volgende tabel opgesomd zijn.&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;table border=&quot;0&quot; cellpadding=&quot;1&quot; align=&quot;center&quot; style=&quot;width: 545px;&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th bgcolor=&quot;#ff0000&quot; scope=&quot;row&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style44&quot;&gt;A&lt;/span&gt;&lt;/span&gt;&lt;/th&gt;
+&lt;td bgcolor=&quot;#cccccc&quot; width=&quot;498&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;De Akkers&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th bgcolor=&quot;#ff0000&quot; scope=&quot;row&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style44&quot;&gt;B&lt;/span&gt;&lt;/span&gt;&lt;/th&gt;
+&lt;td bgcolor=&quot;#cccccc&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Binnenhof&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th bgcolor=&quot;#ff0000&quot; scope=&quot;row&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style44&quot;&gt;C&lt;/span&gt;&lt;/span&gt;&lt;/th&gt;
+&lt;td bgcolor=&quot;#cccccc&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Centraal Station&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th bgcolor=&quot;#ff0000&quot; scope=&quot;row&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style44&quot;&gt;D&lt;/span&gt;&lt;/span&gt;&lt;/th&gt;
+&lt;td bgcolor=&quot;#cccccc&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Schiedam Centrum&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th bgcolor=&quot;#ff0000&quot; scope=&quot;row&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style44&quot;&gt;G&lt;/span&gt;&lt;/span&gt;&lt;/th&gt;
+&lt;td bgcolor=&quot;#cccccc&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;emplacement 's-Gravenweg&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th bgcolor=&quot;#ff0000&quot; scope=&quot;row&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style44&quot;&gt;H&lt;/span&gt;&lt;/span&gt;&lt;/th&gt;
+&lt;td bgcolor=&quot;#cccccc&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Aveling&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th bgcolor=&quot;#ff0000&quot; scope=&quot;row&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style44&quot;&gt;K&lt;/span&gt;&lt;/span&gt;&lt;/th&gt;
+&lt;td bgcolor=&quot;#cccccc&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Kralingse Zoom &lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th bgcolor=&quot;#ff0000&quot; scope=&quot;row&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style44&quot;&gt;N&lt;/span&gt;&lt;/span&gt;&lt;/th&gt;
+&lt;td bgcolor=&quot;#cccccc&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;De Tochten &lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th bgcolor=&quot;#ff0000&quot; scope=&quot;row&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style44&quot;&gt;P&lt;/span&gt;&lt;/span&gt;&lt;/th&gt;
+&lt;td bgcolor=&quot;#cccccc&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Capelsebrug&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th bgcolor=&quot;#ff0000&quot; scope=&quot;row&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style44&quot;&gt;S&lt;/span&gt;&lt;/span&gt;&lt;/th&gt;
+&lt;td bgcolor=&quot;#cccccc&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Slinge&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th bgcolor=&quot;#ff0000&quot; scope=&quot;row&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style45&quot;&gt;&lt;strong&gt;T&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/th&gt;
+&lt;td bgcolor=&quot;#cccccc&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;De Terp &lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th bgcolor=&quot;#ff0000&quot; scope=&quot;row&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style45&quot;&gt;&lt;strong&gt;U&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/th&gt;
+&lt;td bgcolor=&quot;#cccccc&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Tussenwater&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th bgcolor=&quot;#ff0000&quot; scope=&quot;row&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style44&quot;&gt;V&lt;/span&gt;&lt;/span&gt;&lt;/th&gt;
+&lt;td bgcolor=&quot;#cccccc&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Verbindingsboog&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th bgcolor=&quot;#ff0000&quot; scope=&quot;row&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style44&quot;&gt;W&lt;/span&gt;&lt;/span&gt;&lt;/th&gt;
+&lt;td bgcolor=&quot;#cccccc&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;emplacement Waalhaven &lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img alt=&quot;alt&quot; width=&quot;545&quot; height=&quot;409&quot; src=&quot;../../metroinfo/cvl_4.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;De dienstleiders van de verschillende trajectdelen kunnen zowel op het wandtebleau als op hun scherm de actuele treinenloop volgen en eventueel bijsturen.&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Tram en bus&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;Ook de bus- en tramdienst wordt begeleid vanuit de Centrale Verkeersleiding tussen de stations Capelsebrug en Kralingse Zoom. Bij verstoringen van de dienstregeling kunnen de dienstleiders van de bus en tram maatregelen treffen. Onderstaande foto geeft een beeld van de dienstleiding bus/tram.&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img alt=&quot;alt&quot; width=&quot;545&quot; height=&quot;409&quot; src=&quot;../../metroinfo/cvl_1.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Centralisten&lt;/strong&gt;&lt;br /&gt; Aan de andere kant van de CVL, afgezonderd van de treindienstleiding, vinden we de centralisten. Zij waken over de veiligheid van de reiziger op de stations, 24 uur per dag, 7 dagen per week, 365 dagen per jaar. Elk station wordt in de gaten gehouden. Mocht er geweld plaatsvinden op een van de stations, dan wordt er een team van RET en zonodig politie naar toegestuurd. Er is een directe verbinding tussen RET Centrale Verkeersleiding en de politie.&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img alt=&quot;alt&quot; width=&quot;545&quot; height=&quot;409&quot; src=&quot;../../metroinfo/cvl_2.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Relaisruimte&lt;/strong&gt;&lt;br /&gt; Onder de Centrale Verkeersleiding is de relaisruimte gevestigd van het metronet. Vanuit hier worden ATB-signalen gestuurd naar de baan zelf en andere relaisruimtes van het Rotterdamse metronet. Een ingewikkeld systeem van relais, draden en lampjes moet de relaisruimte voorstellen. Eigenlijk zijn de relaisruimten weer het kloppend hart van de Automatische Treinbeïnvloeding. Het relaissysteem kijkt of er een metro in een bepaalde sectie rijdt en geeft, indien nodig, een bezetmelding. Zie hiervoor de pagina over &lt;a href=&quot;index.php?option=com_content&amp;amp;view=article&amp;amp;id=264&amp;amp;Itemid=65&quot;&gt;Automatische Treinbeïnvloeding&lt;/a&gt;. Voorheen zat de Centrale Verkeersleiding (toen nog Post T) op remise Hilledijk, maar ruimte werd hier te klein.&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Infrastructuur" />
+	</entry>
+	<entry>
+		<title>Automatische Treinbeïnvloeding (ATB)</title>
+		<link rel="alternate" type="text/html" href="http://retmetro.nl/cms/infrastructuur/atb"/>
+		<published>2008-12-07T13:56:16+00:00</published>
+		<updated>2008-12-07T13:56:16+00:00</updated>
+		<id>http://retmetro.nl/cms/infrastructuur/atb</id>
+		<author>
+			<name>Joachim</name>
+			<email>joachim@retmetro.nl</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p class=&quot;style12&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;De &lt;span class=&quot;style22&quot;&gt;Rotterdamse Metro is uitgerust met een ingenieus seinsysteem. Zo kent de Rotterdamse metro geen lichtsignalen langs de hoofdbaan, met uitzondering van het sneltramtracé. Op de emplacementen wordt gebruik gemaakt van een ATB-signaal en een dwergsein, omdat hier een lager beveiligingsniveau gehandhaafd wordt. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;style12&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;style22&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;&lt;span class=&quot;style27&quot;&gt;&lt;b&gt;Automatische Treinbeinvloeding, wat is dat?&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;span color=&quot;#000000&quot; size=&quot;2&quot; style=&quot;color: #000000; font-size: small;&quot;&gt;&lt;br /&gt; &lt;span class=&quot;style12&quot;&gt;Automatische Treinbeinvloeding&amp;nbsp;(ATB)&amp;nbsp;is een systeem dat geen gebruik maakt van seinen langs de baan, maar van lichtsignalen in de cabine. Deze worden aangestuurd door ATB-zenders die een frequentie tussen de 370 en de 570 Herz via de sporen naar de trein in een 'sectie' sturen. Een sectie kan 60 tot 300 meter lang zijn. &lt;/span&gt;&lt;/span&gt;&lt;span color=&quot;#000000&quot; size=&quot;2&quot; style=&quot;color: #000000; font-size: small;&quot;&gt;&lt;span class=&quot;style12&quot;&gt;De secties worden bewaakt door een relaissysteem, dat waarneemt of een 'sectie' bezet of vrij is. Als er spoorbreuken zijn, treed ook een bezetmelding op. Soms treden er onterecht bezetmeldingen op. Dit wordt&amp;nbsp;een 'valse bezetmelding' genoemd. De ATB-signalen in een sectie&lt;/span&gt; &lt;span class=&quot;style12&quot;&gt;worden opgepikt door een ATB-spoel die aan het rijtuig is bevestigd. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;style22&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;style22&quot; style=&quot;text-align: center;&quot;&gt;&lt;img alt=&quot;alt&quot; width=&quot;545&quot; height=&quot;408&quot; src=&quot;../../metroinfo/atbspoel.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;style22&quot; style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Een ATB-spoel onder een metrorijtuig van het type&amp;nbsp;M.&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;style22&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;style22&quot;&gt;&lt;span class=&quot;style27&quot;&gt;&lt;b&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Lichtsignalen in de cabine&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;span color=&quot;#000000&quot; size=&quot;2&quot; style=&quot;color: #000000; font-size: small;&quot;&gt;&lt;br /&gt; &lt;/span&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;&lt;span class=&quot;style12&quot;&gt;Onder&amp;nbsp;ieder metrorijtuig hangen vier&amp;nbsp;ontvangstspoelen, die &lt;/span&gt;&lt;span class=&quot;style35&quot;&gt;de ontvangen frequentie&lt;/span&gt;&lt;span class=&quot;style12&quot;&gt; omzetten naar een lichtsignaal in de cabine, een zogenaamd&amp;nbsp;&quot;rijbegrip&quot;. De frequentie wordt in de spoorstaven geïnjecteerd door ATB-zenders en spoortrafo's.&amp;nbsp;Het rijbegrip is een maximale toegestane snelheid, waar de metrobestuurder zich aan dient te houden. Doet de bestuurder dat niet, dan kan de metrotrein zelf ingrijpen en de metro afremmen naar de maximale toegestane snelheid. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;style22&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;style22&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;&lt;span class=&quot;style12&quot;&gt;De ATB kan op geen enkele wijze door de metro&lt;/span&gt;&lt;span class=&quot;style35&quot;&gt;bestuurder uitgeschakeld of overbrugd worden. Een metro rijdt niet zonder ATB, de ATB is immers een rijvoorwaarde. Geen ATB betekent niet rijden. Wel kan de afdeling &lt;/span&gt;&lt;span class=&quot;style12&quot;&gt;Signalering &amp;amp; Telecommunicatie (S&amp;amp;T) de ATB in &lt;/span&gt;&lt;span class=&quot;style35&quot;&gt;het metrorijtuig overbruggen,&lt;/span&gt;&lt;span class=&quot;style12&quot;&gt; bij bijvoorbeeld technische proeven of in noodgevallen.&lt;/span&gt;&lt;/span&gt;&lt;br /&gt; &amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;style22&quot; style=&quot;text-align: center;&quot;&gt;&lt;img alt=&quot;alt&quot; width=&quot;545&quot; height=&quot;409&quot; src=&quot;../../metroinfo/atb_potje.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;style22&quot; align=&quot;left&quot;&gt;&lt;span class=&quot;style27&quot;&gt;&lt;b&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;De huidige Siemens-spoortrafo's, die over het gehele metronet liggen, met uitzondering van&amp;nbsp;de trajectdelen Marconiplein - Tussenwater&amp;nbsp;en de De Tochten - Nesselande.&lt;br /&gt; &lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;style22&quot;&gt;&lt;b&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;&lt;span class=&quot;style27&quot;&gt;Sneltram&lt;/span&gt;&lt;/span&gt;&lt;span color=&quot;#000000&quot; size=&quot;2&quot; style=&quot;color: #000000; font-size: small;&quot;&gt;&lt;br /&gt; &lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;style12&quot; color=&quot;#000000&quot; size=&quot;2&quot; style=&quot;color: #000000; font-size: small;&quot;&gt;Er staan alleen signaallampen langs het sneltramtraject, om de bestuurder van de metrosneltram te laten weten of de rest van de kruising 'rood' heeft en de kruising veilig genaderd kan worden. Er gaat dan een wit licht knipperen. Indien er een AHOB staat, gaat er een oranje lamp branden. De verkeerslicht-installatie is NIET gekoppeld aan het ATB-systeem. &lt;/span&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Het AHOB-systeem daarentegen is wel gekoppeld aan het ATB-systeem. Zodra een vertreksverbod wordt gesteld op een station, in de nabijheid van een gelijkvloerse kruising, zal de AHOB niet sluiten. Dit ter voorkoming dat een kruising voor niets dichtgaat, en het verkeer stil zal staan. &lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;style22&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;style22&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;&lt;span class=&quot;style27&quot;&gt;&lt;strong&gt;Rijbegrippen&lt;/strong&gt;&lt;br /&gt; &lt;span class=&quot;style28&quot;&gt;Er zijn diverse rijbegrippen&lt;/span&gt;&lt;span class=&quot;style28&quot;&gt;. In de nieuwste voertuigen verschijnt de toegestane snelheid in een display en een pijl op de snelheidsmeter die aangeeft&amp;nbsp;wat de maximale snelheid is in de&amp;nbsp;betreffende sectie.&amp;nbsp;De maximale snelheid is afhankelijk van andere treinen in de buurt van de sectie, spoorbreuken, foutieve wisselstanden en ligging van de baan.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;style22&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;table border=&quot;1&quot; align=&quot;center&quot; style=&quot;width: 96%;&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class=&quot;style22&quot; bgcolor=&quot;#000099&quot; width=&quot;44%&quot;&gt;
+&lt;h6&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span&gt;&lt;span class=&quot;style32&quot;&gt;Vertreksverbod&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/h6&gt;
+&lt;/td&gt;
+&lt;td class=&quot;style22&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span&gt;&lt;span class=&quot;style27&quot;&gt;Metro/sneltram mag niet verder dan einde perron. Rijdt de metro/sneltram verder dan einde perron zonder elke 7 seconden de permissieftoets te bedienen, dan brengt de metro zichzelf tot stilstand. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span&gt;Een vertreksverbod wordt gegeven wanneer er te vroeg op een station gearriveerd wordt of wanneer het perron niet verlaten mag worden bij bijv. een calamiteit. &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Bij dit rijbegrip moet de permissieftoets elke 7 seconden ingedrukt worden, t.b.v. het wegdrukken van een akoestisch signaal. &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Maximaal &lt;span class=&quot;style27&quot;&gt;toegestane&lt;/span&gt; snelheid is 50 km/h. &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;De blauwe lamp 'STATION' licht op. &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;style22&quot; bgcolor=&quot;#ff0000&quot; width=&quot;44%&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style32&quot;&gt;0 Permissief&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td class=&quot;style22&quot; width=&quot;56%&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style27&quot;&gt;Gevaarlijk sein, hierbij moet de permissieftoets elke 7 seconden ingedrukt worden. Deze bedrijfstoestand komt voor als er twee metro's in één sectie rijden, bijvoorbeeld bij koppelen.&lt;/span&gt; &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Rijbegrip van toepassing op de hoofdrijbaan. &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span&gt;De lamp '10' brandt, elke 7 seconden een akoestisch signaal dat weggedrukt behoort te worden met de permissieftoets. &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Maximaal &lt;span class=&quot;style27&quot;&gt;toegestane&lt;/span&gt; snelheid is 10 km/h. &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;style22&quot; bgcolor=&quot;#990000&quot; height=&quot;19&quot; width=&quot;44%&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style32&quot;&gt;0 Absoluut actief&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td class=&quot;style22&quot; height=&quot;19&quot; width=&quot;56%&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Absoluut stopsignaal. De metro staat stil en staat d.m.v. een dwangrem actief geremd. &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;De dienstleiding kan een hulprijsignaal geven, 20 permissief of hoger. &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Wegrijden na ontvangst hulprijsignaal is mogelijk, mits er gedeblokkeerd wordt met de daarvoor bedoelde toets. &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Maximaal &lt;span class=&quot;style27&quot;&gt;toegestane&lt;/span&gt; snelheid is 0 km/h. &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;De lamp 'STOP' brandt. &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;style22&quot; bgcolor=&quot;#990000&quot; width=&quot;44%&quot;&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style27&quot;&gt;&lt;b&gt;&lt;span class=&quot;style33&quot;&gt;0 Absoluut passief&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td class=&quot;style22&quot; width=&quot;56%&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style27&quot;&gt;Absoluut stopsignaal. De metro staat stil en staat d.m.v. een dwangrem actief geremd.&lt;/span&gt; &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style27&quot;&gt;De dwangrem is te lossen d.m.v. de deblokkeertoets. &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Na het uit/inschakelen van het treinstel zal het rijbegrip '0 permissief' terugkomen en kan de sectie bereden worden (nul-absoluutafschakeling). &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Maximaal &lt;span class=&quot;style27&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;toegestane&lt;/span&gt;&lt;/span&gt; snelheid is 0 km/h. &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;De lamp 'STOP' brandt. &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;style22&quot; bgcolor=&quot;#ff0000&quot; width=&quot;44%&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style32&quot;&gt;10 Absoluut&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td class=&quot;style22&quot; width=&quot;56%&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style27&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Gevaarlijk sein, hierbij moet de permissieftoets elke 7 seconden ingedrukt worden, t.b.v. het wegdrukken van een akoestisch signaal. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style27&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Deze bedrijfstoestand komt met name voor bij wisselcomplexen.&lt;/span&gt;&lt;/span&gt; &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Maximaal &lt;span class=&quot;style27&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;toegestane&lt;/span&gt;&lt;/span&gt; snelheid is 10 km/h.&lt;/span&gt; &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Lamp 'Remmen' brandt. &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;style22&quot; bgcolor=&quot;#ffcc00&quot; width=&quot;44%&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style27&quot;&gt;&lt;b&gt;&lt;span class=&quot;style34&quot;&gt;20 Permissi&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;style34&quot;&gt;&lt;strong&gt;ef&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td class=&quot;style22&quot; width=&quot;56%&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style27&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Toegestane snelheid is 20 km/h, permissieftoets moet elke 7 seconden bediend worden t.b.v. het wegdrukken van een akoestisch signaal. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Komt voor bij het naderen van een bezette sectie. &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;De lamp '20' brandt.&lt;/span&gt; &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Dit rijbegrip wordt ook toegepast bij het geven van een hulprijsignaal. &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;style22&quot; bgcolor=&quot;#009900&quot; width=&quot;44%&quot;&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;strong&gt;&lt;span class=&quot;style32&quot;&gt;Groen 35&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td class=&quot;style22&quot; width=&quot;56%&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style27&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Maximaal toegestane snelheid is 35 km/h.&lt;/span&gt;&lt;/span&gt; &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;De lamp '35' brandt. &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Dit rijbegrip komt voor bij het naderen van een bezette sectie en bij het naderen of berijden van een wisselcomplex. &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;style22&quot; bgcolor=&quot;#ffcc00&quot; width=&quot;44%&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;strong&gt;&lt;span class=&quot;style21&quot;&gt;Geel 50&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td class=&quot;style22&quot; width=&quot;56%&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style27&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Maximaal toegestane snelheid is 50 km/h. Rijden op zicht. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style27&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;ATB-storingslamp licht op. Tot nu toe komt Geel 50 alleen voor op de President Rooseveltweg, voor de splitsing tussen Ommoord en Nesselande. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Permissieftoets behoort elke 7 seconden ingedrukt te worden, t.b.v. het wegdrukken van een akoestisch signaal. &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Lamp '50' (geel) brandt. &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;style22&quot; bgcolor=&quot;#009900&quot; width=&quot;44%&quot;&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style32&quot;&gt;Groen 50&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td class=&quot;style22&quot; width=&quot;56%&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style27&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Maximaal toegestane snelheid is 50 km/h. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Volledig bewaakt rijbegrip.&lt;/span&gt; &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;De lamp '50' (groen) brandt. &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;style32&quot; bgcolor=&quot;#009900&quot;&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Groen 60 &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td class=&quot;style22&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Maximaal toegestane snelheid is 60 km/h &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Volledig bewaakt rijbegrip. &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Dit rijbegrip is alleen van toepassing in de Bombardier-rijtuigen. &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Bij Type T licht de lamp &quot;Groen 50&quot; op bij het ontvangen van dit rijbegrip. &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Signalering komt voor in sommige secties op&amp;nbsp; lijn D&amp;nbsp;en in het wisselcomplex Nesselande. &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;style22&quot; bgcolor=&quot;#009900&quot;&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style32&quot;&gt;Groen 70&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td class=&quot;style22&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Maximaal&lt;span class=&quot;style27&quot;&gt; toegestane snelheid is 70 km/h.&lt;/span&gt;&lt;/span&gt; &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Volledig bewaakt rijbegrip. &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;De lamp '70' brandt.&lt;/span&gt; &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;style22&quot; bgcolor=&quot;#009900&quot;&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style32&quot;&gt;Groen 80&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td class=&quot;style22&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style27&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Maximaal toegestane snelheid is 80 km/h.&lt;/span&gt;&lt;/span&gt; &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Volledig bewaakt rijbegrip. &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;De lamp '80' brandt. &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h6&gt;&amp;nbsp;&lt;/h6&gt;
+&lt;p&gt;&lt;strong&gt;Locomotieven en werkmaterieel&lt;/strong&gt;&lt;br /&gt; De oudere diesellocomotieven van het metrobedrijf zijn niet uitgerust met ATB. De locomotieven mogen daarom alleen de hoofdbaan op als dat echt nodig is. 's Nachts worden de locomotieven ook ingezet bij werkzaamheden. De Centrale Verkeersleiding begeleidt de werkwagens dan. Locomotief 6201 is wel voorzien van ATB.&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p class=&quot;style12&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;De &lt;span class=&quot;style22&quot;&gt;Rotterdamse Metro is uitgerust met een ingenieus seinsysteem. Zo kent de Rotterdamse metro geen lichtsignalen langs de hoofdbaan, met uitzondering van het sneltramtracé. Op de emplacementen wordt gebruik gemaakt van een ATB-signaal en een dwergsein, omdat hier een lager beveiligingsniveau gehandhaafd wordt. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;style12&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;style22&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;&lt;span class=&quot;style27&quot;&gt;&lt;b&gt;Automatische Treinbeinvloeding, wat is dat?&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;span color=&quot;#000000&quot; size=&quot;2&quot; style=&quot;color: #000000; font-size: small;&quot;&gt;&lt;br /&gt; &lt;span class=&quot;style12&quot;&gt;Automatische Treinbeinvloeding&amp;nbsp;(ATB)&amp;nbsp;is een systeem dat geen gebruik maakt van seinen langs de baan, maar van lichtsignalen in de cabine. Deze worden aangestuurd door ATB-zenders die een frequentie tussen de 370 en de 570 Herz via de sporen naar de trein in een 'sectie' sturen. Een sectie kan 60 tot 300 meter lang zijn. &lt;/span&gt;&lt;/span&gt;&lt;span color=&quot;#000000&quot; size=&quot;2&quot; style=&quot;color: #000000; font-size: small;&quot;&gt;&lt;span class=&quot;style12&quot;&gt;De secties worden bewaakt door een relaissysteem, dat waarneemt of een 'sectie' bezet of vrij is. Als er spoorbreuken zijn, treed ook een bezetmelding op. Soms treden er onterecht bezetmeldingen op. Dit wordt&amp;nbsp;een 'valse bezetmelding' genoemd. De ATB-signalen in een sectie&lt;/span&gt; &lt;span class=&quot;style12&quot;&gt;worden opgepikt door een ATB-spoel die aan het rijtuig is bevestigd. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;style22&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;style22&quot; style=&quot;text-align: center;&quot;&gt;&lt;img alt=&quot;alt&quot; width=&quot;545&quot; height=&quot;408&quot; src=&quot;../../metroinfo/atbspoel.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;style22&quot; style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Een ATB-spoel onder een metrorijtuig van het type&amp;nbsp;M.&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;style22&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;style22&quot;&gt;&lt;span class=&quot;style27&quot;&gt;&lt;b&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Lichtsignalen in de cabine&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;span color=&quot;#000000&quot; size=&quot;2&quot; style=&quot;color: #000000; font-size: small;&quot;&gt;&lt;br /&gt; &lt;/span&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;&lt;span class=&quot;style12&quot;&gt;Onder&amp;nbsp;ieder metrorijtuig hangen vier&amp;nbsp;ontvangstspoelen, die &lt;/span&gt;&lt;span class=&quot;style35&quot;&gt;de ontvangen frequentie&lt;/span&gt;&lt;span class=&quot;style12&quot;&gt; omzetten naar een lichtsignaal in de cabine, een zogenaamd&amp;nbsp;&quot;rijbegrip&quot;. De frequentie wordt in de spoorstaven geïnjecteerd door ATB-zenders en spoortrafo's.&amp;nbsp;Het rijbegrip is een maximale toegestane snelheid, waar de metrobestuurder zich aan dient te houden. Doet de bestuurder dat niet, dan kan de metrotrein zelf ingrijpen en de metro afremmen naar de maximale toegestane snelheid. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;style22&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;style22&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;&lt;span class=&quot;style12&quot;&gt;De ATB kan op geen enkele wijze door de metro&lt;/span&gt;&lt;span class=&quot;style35&quot;&gt;bestuurder uitgeschakeld of overbrugd worden. Een metro rijdt niet zonder ATB, de ATB is immers een rijvoorwaarde. Geen ATB betekent niet rijden. Wel kan de afdeling &lt;/span&gt;&lt;span class=&quot;style12&quot;&gt;Signalering &amp;amp; Telecommunicatie (S&amp;amp;T) de ATB in &lt;/span&gt;&lt;span class=&quot;style35&quot;&gt;het metrorijtuig overbruggen,&lt;/span&gt;&lt;span class=&quot;style12&quot;&gt; bij bijvoorbeeld technische proeven of in noodgevallen.&lt;/span&gt;&lt;/span&gt;&lt;br /&gt; &amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;style22&quot; style=&quot;text-align: center;&quot;&gt;&lt;img alt=&quot;alt&quot; width=&quot;545&quot; height=&quot;409&quot; src=&quot;../../metroinfo/atb_potje.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;style22&quot; align=&quot;left&quot;&gt;&lt;span class=&quot;style27&quot;&gt;&lt;b&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;De huidige Siemens-spoortrafo's, die over het gehele metronet liggen, met uitzondering van&amp;nbsp;de trajectdelen Marconiplein - Tussenwater&amp;nbsp;en de De Tochten - Nesselande.&lt;br /&gt; &lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;style22&quot;&gt;&lt;b&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;&lt;span class=&quot;style27&quot;&gt;Sneltram&lt;/span&gt;&lt;/span&gt;&lt;span color=&quot;#000000&quot; size=&quot;2&quot; style=&quot;color: #000000; font-size: small;&quot;&gt;&lt;br /&gt; &lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;style12&quot; color=&quot;#000000&quot; size=&quot;2&quot; style=&quot;color: #000000; font-size: small;&quot;&gt;Er staan alleen signaallampen langs het sneltramtraject, om de bestuurder van de metrosneltram te laten weten of de rest van de kruising 'rood' heeft en de kruising veilig genaderd kan worden. Er gaat dan een wit licht knipperen. Indien er een AHOB staat, gaat er een oranje lamp branden. De verkeerslicht-installatie is NIET gekoppeld aan het ATB-systeem. &lt;/span&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Het AHOB-systeem daarentegen is wel gekoppeld aan het ATB-systeem. Zodra een vertreksverbod wordt gesteld op een station, in de nabijheid van een gelijkvloerse kruising, zal de AHOB niet sluiten. Dit ter voorkoming dat een kruising voor niets dichtgaat, en het verkeer stil zal staan. &lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;style22&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;style22&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;&lt;span class=&quot;style27&quot;&gt;&lt;strong&gt;Rijbegrippen&lt;/strong&gt;&lt;br /&gt; &lt;span class=&quot;style28&quot;&gt;Er zijn diverse rijbegrippen&lt;/span&gt;&lt;span class=&quot;style28&quot;&gt;. In de nieuwste voertuigen verschijnt de toegestane snelheid in een display en een pijl op de snelheidsmeter die aangeeft&amp;nbsp;wat de maximale snelheid is in de&amp;nbsp;betreffende sectie.&amp;nbsp;De maximale snelheid is afhankelijk van andere treinen in de buurt van de sectie, spoorbreuken, foutieve wisselstanden en ligging van de baan.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;style22&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;table border=&quot;1&quot; align=&quot;center&quot; style=&quot;width: 96%;&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class=&quot;style22&quot; bgcolor=&quot;#000099&quot; width=&quot;44%&quot;&gt;
+&lt;h6&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span&gt;&lt;span class=&quot;style32&quot;&gt;Vertreksverbod&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/h6&gt;
+&lt;/td&gt;
+&lt;td class=&quot;style22&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span&gt;&lt;span class=&quot;style27&quot;&gt;Metro/sneltram mag niet verder dan einde perron. Rijdt de metro/sneltram verder dan einde perron zonder elke 7 seconden de permissieftoets te bedienen, dan brengt de metro zichzelf tot stilstand. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span&gt;Een vertreksverbod wordt gegeven wanneer er te vroeg op een station gearriveerd wordt of wanneer het perron niet verlaten mag worden bij bijv. een calamiteit. &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Bij dit rijbegrip moet de permissieftoets elke 7 seconden ingedrukt worden, t.b.v. het wegdrukken van een akoestisch signaal. &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Maximaal &lt;span class=&quot;style27&quot;&gt;toegestane&lt;/span&gt; snelheid is 50 km/h. &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;De blauwe lamp 'STATION' licht op. &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;style22&quot; bgcolor=&quot;#ff0000&quot; width=&quot;44%&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style32&quot;&gt;0 Permissief&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td class=&quot;style22&quot; width=&quot;56%&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style27&quot;&gt;Gevaarlijk sein, hierbij moet de permissieftoets elke 7 seconden ingedrukt worden. Deze bedrijfstoestand komt voor als er twee metro's in één sectie rijden, bijvoorbeeld bij koppelen.&lt;/span&gt; &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Rijbegrip van toepassing op de hoofdrijbaan. &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span&gt;De lamp '10' brandt, elke 7 seconden een akoestisch signaal dat weggedrukt behoort te worden met de permissieftoets. &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Maximaal &lt;span class=&quot;style27&quot;&gt;toegestane&lt;/span&gt; snelheid is 10 km/h. &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;style22&quot; bgcolor=&quot;#990000&quot; height=&quot;19&quot; width=&quot;44%&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style32&quot;&gt;0 Absoluut actief&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td class=&quot;style22&quot; height=&quot;19&quot; width=&quot;56%&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Absoluut stopsignaal. De metro staat stil en staat d.m.v. een dwangrem actief geremd. &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;De dienstleiding kan een hulprijsignaal geven, 20 permissief of hoger. &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Wegrijden na ontvangst hulprijsignaal is mogelijk, mits er gedeblokkeerd wordt met de daarvoor bedoelde toets. &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Maximaal &lt;span class=&quot;style27&quot;&gt;toegestane&lt;/span&gt; snelheid is 0 km/h. &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;De lamp 'STOP' brandt. &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;style22&quot; bgcolor=&quot;#990000&quot; width=&quot;44%&quot;&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style27&quot;&gt;&lt;b&gt;&lt;span class=&quot;style33&quot;&gt;0 Absoluut passief&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td class=&quot;style22&quot; width=&quot;56%&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style27&quot;&gt;Absoluut stopsignaal. De metro staat stil en staat d.m.v. een dwangrem actief geremd.&lt;/span&gt; &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style27&quot;&gt;De dwangrem is te lossen d.m.v. de deblokkeertoets. &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Na het uit/inschakelen van het treinstel zal het rijbegrip '0 permissief' terugkomen en kan de sectie bereden worden (nul-absoluutafschakeling). &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Maximaal &lt;span class=&quot;style27&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;toegestane&lt;/span&gt;&lt;/span&gt; snelheid is 0 km/h. &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;De lamp 'STOP' brandt. &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;style22&quot; bgcolor=&quot;#ff0000&quot; width=&quot;44%&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style32&quot;&gt;10 Absoluut&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td class=&quot;style22&quot; width=&quot;56%&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style27&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Gevaarlijk sein, hierbij moet de permissieftoets elke 7 seconden ingedrukt worden, t.b.v. het wegdrukken van een akoestisch signaal. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style27&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Deze bedrijfstoestand komt met name voor bij wisselcomplexen.&lt;/span&gt;&lt;/span&gt; &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Maximaal &lt;span class=&quot;style27&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;toegestane&lt;/span&gt;&lt;/span&gt; snelheid is 10 km/h.&lt;/span&gt; &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Lamp 'Remmen' brandt. &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;style22&quot; bgcolor=&quot;#ffcc00&quot; width=&quot;44%&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style27&quot;&gt;&lt;b&gt;&lt;span class=&quot;style34&quot;&gt;20 Permissi&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;style34&quot;&gt;&lt;strong&gt;ef&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td class=&quot;style22&quot; width=&quot;56%&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style27&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Toegestane snelheid is 20 km/h, permissieftoets moet elke 7 seconden bediend worden t.b.v. het wegdrukken van een akoestisch signaal. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Komt voor bij het naderen van een bezette sectie. &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;De lamp '20' brandt.&lt;/span&gt; &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Dit rijbegrip wordt ook toegepast bij het geven van een hulprijsignaal. &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;style22&quot; bgcolor=&quot;#009900&quot; width=&quot;44%&quot;&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;strong&gt;&lt;span class=&quot;style32&quot;&gt;Groen 35&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td class=&quot;style22&quot; width=&quot;56%&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style27&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Maximaal toegestane snelheid is 35 km/h.&lt;/span&gt;&lt;/span&gt; &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;De lamp '35' brandt. &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Dit rijbegrip komt voor bij het naderen van een bezette sectie en bij het naderen of berijden van een wisselcomplex. &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;style22&quot; bgcolor=&quot;#ffcc00&quot; width=&quot;44%&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;strong&gt;&lt;span class=&quot;style21&quot;&gt;Geel 50&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td class=&quot;style22&quot; width=&quot;56%&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style27&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Maximaal toegestane snelheid is 50 km/h. Rijden op zicht. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style27&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;ATB-storingslamp licht op. Tot nu toe komt Geel 50 alleen voor op de President Rooseveltweg, voor de splitsing tussen Ommoord en Nesselande. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Permissieftoets behoort elke 7 seconden ingedrukt te worden, t.b.v. het wegdrukken van een akoestisch signaal. &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Lamp '50' (geel) brandt. &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;style22&quot; bgcolor=&quot;#009900&quot; width=&quot;44%&quot;&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style32&quot;&gt;Groen 50&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td class=&quot;style22&quot; width=&quot;56%&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style27&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Maximaal toegestane snelheid is 50 km/h. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Volledig bewaakt rijbegrip.&lt;/span&gt; &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;De lamp '50' (groen) brandt. &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;style32&quot; bgcolor=&quot;#009900&quot;&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Groen 60 &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td class=&quot;style22&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Maximaal toegestane snelheid is 60 km/h &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Volledig bewaakt rijbegrip. &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Dit rijbegrip is alleen van toepassing in de Bombardier-rijtuigen. &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Bij Type T licht de lamp &quot;Groen 50&quot; op bij het ontvangen van dit rijbegrip. &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Signalering komt voor in sommige secties op&amp;nbsp; lijn D&amp;nbsp;en in het wisselcomplex Nesselande. &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;style22&quot; bgcolor=&quot;#009900&quot;&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style32&quot;&gt;Groen 70&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td class=&quot;style22&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Maximaal&lt;span class=&quot;style27&quot;&gt; toegestane snelheid is 70 km/h.&lt;/span&gt;&lt;/span&gt; &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Volledig bewaakt rijbegrip. &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;De lamp '70' brandt.&lt;/span&gt; &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;style22&quot; bgcolor=&quot;#009900&quot;&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style32&quot;&gt;Groen 80&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td class=&quot;style22&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;style27&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Maximaal toegestane snelheid is 80 km/h.&lt;/span&gt;&lt;/span&gt; &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;Volledig bewaakt rijbegrip. &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span color=&quot;#000000&quot; style=&quot;color: #000000;&quot;&gt;De lamp '80' brandt. &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h6&gt;&amp;nbsp;&lt;/h6&gt;
+&lt;p&gt;&lt;strong&gt;Locomotieven en werkmaterieel&lt;/strong&gt;&lt;br /&gt; De oudere diesellocomotieven van het metrobedrijf zijn niet uitgerust met ATB. De locomotieven mogen daarom alleen de hoofdbaan op als dat echt nodig is. 's Nachts worden de locomotieven ook ingezet bij werkzaamheden. De Centrale Verkeersleiding begeleidt de werkwagens dan. Locomotief 6201 is wel voorzien van ATB.&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Infrastructuur" />
+	</entry>
+</feed>

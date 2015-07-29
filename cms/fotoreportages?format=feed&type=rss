@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Fotoreportages</title>
+		<description><![CDATA[retmetro.nl - alles over de Rotterdamse metro]]></description>
+		<link>http://retmetro.nl/cms/fotoreportages</link>
+		<lastBuildDate>Tue, 28 Jul 2015 17:52:26 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://retmetro.nl/cms/fotoreportages?format=feed&amp;type=rss"/>
+		<language>nl-nl</language>
+		<item>
+			<title>De metro in 2009</title>
+			<link>http://retmetro.nl/cms/fotoreportages/1126-de-metro-in-2009</link>
+			<guid isPermaLink="true">http://retmetro.nl/cms/fotoreportages/1126-de-metro-in-2009</guid>
+			<description><![CDATA[<div class="feed-description"><p style="line-height: 15px;"><img src="http://farm9.staticflickr.com/8107/8654990003_85c24af907_m.jpg" width="240" height="180" /></p>
+</div>]]></description>
+			<author>roland@retmetro.nl (Roland)</author>
+			<category>Fotoreportages</category>
+			<pubDate>Tue, 16 Apr 2013 16:46:15 +0000</pubDate>
+		</item>
+		<item>
+			<title>Line-up 3 mei 2009</title>
+			<link>http://retmetro.nl/cms/fotoreportages/1113-line-up-3-mei-2009</link>
+			<guid isPermaLink="true">http://retmetro.nl/cms/fotoreportages/1113-line-up-3-mei-2009</guid>
+			<description><![CDATA[<div class="feed-description"><p style="line-height: 15px;"><img src="http://farm9.staticflickr.com/8497/8387187534_ebf61ee6ef_m.jpg" width="240" height="180" /></p>
+</div>]]></description>
+			<author>roland@retmetro.nl (Roland)</author>
+			<category>Fotoreportages</category>
+			<pubDate>Wed, 16 Jan 2013 15:01:57 +0000</pubDate>
+		</item>
+		<item>
+			<title>De 'Ommoordtak' 24 juni 2003</title>
+			<link>http://retmetro.nl/cms/fotoreportages/1108-de-ommoordtak-24-juni-2003</link>
+			<guid isPermaLink="true">http://retmetro.nl/cms/fotoreportages/1108-de-ommoordtak-24-juni-2003</guid>
+			<description><![CDATA[<div class="feed-description"><p><img src="http://farm9.staticflickr.com/8064/8281128231_0d8f100cc6_m.jpg" /></p>
+</div>]]></description>
+			<author>roland@retmetro.nl (Roland)</author>
+			<category>Fotoreportages</category>
+			<pubDate>Mon, 17 Dec 2012 18:45:43 +0000</pubDate>
+		</item>
+		<item>
+			<title>Metro's in de avondzon</title>
+			<link>http://retmetro.nl/cms/fotoreportages/1107-metro-s-in-de-avondzon</link>
+			<guid isPermaLink="true">http://retmetro.nl/cms/fotoreportages/1107-metro-s-in-de-avondzon</guid>
+			<description><![CDATA[<div class="feed-description"><p><img src="http://farm9.staticflickr.com/8364/8282031364_31e1e2691a_m.jpg" /></p>
+</div>]]></description>
+			<author>roland@retmetro.nl (Roland)</author>
+			<category>Fotoreportages</category>
+			<pubDate>Mon, 17 Dec 2012 17:58:40 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
